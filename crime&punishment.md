@@ -8,11 +8,11 @@ Russian literature is extremely difficult to read and analyze — especially wit
 - <a id="char-raskolnikov"></a>Raskolnikov: The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
 - <a id="char-alyona-ivanova"></a>Alyona Ivanova: Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
 - <a id="char-marmeladov"></a>Marmeladov (supporting?): The drunken ex-clerk Raskolnikov meets in a tavern.
-- <a id="char-nastasya"></a>Nastasya: Servant of the landlord who often checks on Raskolnikov.
+- <a id="char-nastasya"></a>(supporting?) Nastasya: Servant of the landlord who often checks on Raskolnikov.
 - <a id="char-pulcheria-alexandrovna-raskolnikova"></a>Pulcheria Alexandrovna Raskolnikova: Raskolnikov's mother.
 - <a id="char-dunya"></a>Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
 - <a id="char-arkady-ivanovich-svidrigailov"></a>Arkady Ivanovich Svidrigailov (supporting?): Landowner/nobleman living off inherited wealth.
-- <a id="char-martha-petrovna"></a>Martha Petrovna (supporting?): Wife of Arkady Ivanovich Svidrigailov.
+- <a id="char-marfa-petrovna"></a>Marfa Petrovna (supporting?): Wife of Arkady Ivanovich Svidrigailov.
 - <a id="char-pyotr-petrovich-luzhin"></a>Pyotr Petrovich Luzhin: The lawyer who wants to marry Dunya.
 
 ### Supporting Characters
@@ -65,11 +65,29 @@ Russian literature is extremely difficult to read and analyze — especially wit
 - Pulcheria Alexandrovna Raskolnikova: Raskolnikov's mother.
 - Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
 - Arkady Ivanovich Svidrigailov: Landowner/nobleman living off inherited wealth.
-- Martha Petrovna: Wife of Arkady Ivanovich Svidrigailov.
+- Marfa Petrovna: Wife of Arkady Ivanovich Svidrigailov.
 - Pyotr Petrovich Luzhin: The lawyer who wants to marry Dunya.
 
 ### Relevant Terms
 - Governess: Private teacher.
 
 ### Summary
--  TODO: finish chapter, write a summary & analysis, polish existing hyperlinks (current point -> Martha's letter to Raskolnikov)
+- Raskolnikov receives a letter from his mother, Pulcheria Alexandrovna Raskolnikova, informing him of what has been going on in her and Dunya's life. The letter is filled with love and a heavy sense of guilt, sacrifice, and unspoken expectations. She explains Dunya's engagement to Pyotr Petrovich, a wealthy lawyer who is older and unpleasant. Pytor Petrovich wants a wife that would feel indebted to him for lifting her and her family out of poverty. The letter paints him as controlling and condescending but his mother tries to spin it in a positive way.
+- The letter highlights the events leading up to this. Dunya worked as a governess for Arkady Ivanovich Svidrigailov, a wealthy landowner, who many people including his wife, Marfa Petrovich, believed Dunya was seducing and having an affair with. His wife publically humiliated Dunya over it, which ultimately hurt her marriage prospects. It turned out that Svidrigailov was actually harassing Dunya. Marfa did clear Dunya's name, but the damage was already done — Luzhin became her only real option.
+- It suggests Dunya is sacrificing her future for Raskolnikov's future and emphasizes that she is going through with the marriage to fund his education and give him more opportunities. Dunya and her mother are being humiliated for Raskolnikov's sake, which puts an unbelievable amount of pressure on him to be successful. They're betting everything on him.
+- It ends with his mother sending him the little money they had left — reinforcing the self-sacrifice theme. The letter's tone is optomistic, hopeful for the future, but ultimately conveys desperation. It is emotionally manipulative — implying that Raskolnikov owes his mother and sister for what they are doing for him, even if he would have never allowed it if he knew and had a say.
+- Raskolnikov is very pissed. He cries and wanders around the streets.
+
+### Analysis
+- This is the third major event that will sway Raskolnikov towards actually engaging with his Extraordinary Man Theory.
+- MAJOR EVENT RECAP
+  - Raskolnikov pawns his father's watch to a pawnbroker, Alyona Ivanovna, for a low amount. She's rude and condescending to him. She gives him far less money than the item is worth because she knows he's desperate. A personal injustice.
+  - Raskolnikov goes to a tavern and encounters an alocholic, Marmeladov, who used to be a clerk and was fired. He explains that his family is impovereished and his daughter, Sonya, went into prostitution to keep things together. Meanwhile, he's spending all her money on alcohal. Another injustice, especially against the Sonya.
+  - Raskolnikov's sister, Dunya, is marrying a cruel older man, Pyotr Petrovich Luzhin, for Raskolnikov's sake. She and her mother are suffering for the hope something comes of Raskolnikov, however, Raskolnikov quit his studies and does nothing (kind of like Marmeladov, the alcohlic ex-clerk).
+- THOUGHT: how will these events influence Raskolnikov's future actions?
+  - This is a great opportunity for introspection on Raskolnikov's part.
+    - He could compare the situation with his mother and sister to Marmeladov's with his wife and daughter, potentially avoiding going down the self-destructive path Marmeladov took.
+    - On the other hand, he can drown in self-pity and blame the world.
+  - These events will push him more into his theory and he will likely do something very stupid.
+
+TODO: finish part 4, add more hyperlinks to part 3
