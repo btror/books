@@ -51,12 +51,11 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ### Summary
 - [Raskolnikov](#char-raskolnikov), overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor, feeling disconnected from them despite his own suffering.
-- Marmeladov, a pitiful, drunken man, strikes up a conversation with Raskolnikov. He gives a long, emotional monologue about his family's suffering. He admits he's wasting their money on alcohol, while Sonya has been forced into prostitution to keep the family from starving. He speaks of his own guilt and shame but insists that God will forgive Sonya, calling her "holy through suffering."
-- [Raskolnikov](#char-raskolnikov), despite his deteriorating state, feels moved by Marmeladov's misery. He helps him get home, where Katerina Ivanovna lashes out at her drunken husband in front of their hungry children.
-- These events force [Raskolnikov](#char-raskolnikov) to confront the raw, human suffering around him — suffering that his cold, logical theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he wonders if sacrificing one "louse" (Alyona) could save countless "Sonya-like" innocents.
+- [Marmeladov](#char-marmeladov), a pitiful, drunken man, strikes up a conversation with [Raskolnikov](#char-raskolnikov). He gives a long, emotional monologue about his family's suffering. He admits he's wasting their money on alcohol, while [Sonya](#char-sonya-semyonovna) has been forced into prostitution to keep the family from starving. He speaks of his own guilt and shame but insists that God will forgive [Sonya](#char-sonya-semyonovna), calling her "holy through suffering."
+- [Raskolnikov](#char-raskolnikov), despite his deteriorating state, feels moved by [Marmeladov](#char-marmeladov)'s misery. He helps him get home, where [Katerina Ivanovna](#char-katarina-ivonova) lashes out at her drunken husband in front of their hungry children.
 
 ### Analysis
-- TODO: include analysis and complete part 2 hyper links
+- These events force [Raskolnikov](#char-raskolnikov) to confront the raw, human suffering around him — suffering that his cold, logical theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he wonders if sacrificing one "louse" ([Alyona](#char-alyona-ivanova)) could save countless "[Sonya](#char-sonya-semyonovna)-like" innocents.
 
 
 ## Part 3
