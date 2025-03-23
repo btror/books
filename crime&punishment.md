@@ -44,37 +44,33 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ## Part 2
   
-Chars
-- Marmeladov: A drunken ex-clerk Raskolnikov meets in a tavern.
-- Katarina Ivonova: Marmeladov's proud sickly wife.
-- Sonya Semyonovna: Marmeladov's daughter who turned to prostitution.
+### Relevant Characters
+- [Marmeladov](#char-marmeladov)
+- [Katarina Ivonova](#char-katarina-ivonova)
+- [Sonya Semyonovna](#char-sonya-semyonovna)
 
-Sum
-- Raskolnikov, overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental
-  breakdown and is completely detached from reality. He observes the shared misery of the poor, feeling disconnected 
-  from them despite his own suffering.
-- Marmeladov, a pitiful, drunken man, strikes up a conversation with Raskolnikov. He gives a long, emotional monologue 
-  about his family's suffering. He admits he's wasting their money on alcohol, while Sonya has been forced into 
-  prostitution to keep the family from starving. He speaks of his own guilt and shame but insists that God will forgive 
-  Sonya, calling her "holy through suffering."
-- Raskolnikov, despite his deteriorating state, feels moved by Marmeladov's misery. He helps him get home, where Katerina 
-  Ivanovna lashes out at her drunken husband in front of their hungry children.
-- These events force Raskolnikov to confront the raw, human suffering around him — suffering that his cold, logical 
-  theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he 
-  wonders if sacrificing one "louse" (Alyona) could save countless "Sonya-like" innocents.
+### Summary
+- [Raskolnikov](#char-raskolnikov), overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor, feeling disconnected from them despite his own suffering.
+- Marmeladov, a pitiful, drunken man, strikes up a conversation with Raskolnikov. He gives a long, emotional monologue about his family's suffering. He admits he's wasting their money on alcohol, while Sonya has been forced into prostitution to keep the family from starving. He speaks of his own guilt and shame but insists that God will forgive Sonya, calling her "holy through suffering."
+- [Raskolnikov](#char-raskolnikov), despite his deteriorating state, feels moved by Marmeladov's misery. He helps him get home, where Katerina Ivanovna lashes out at her drunken husband in front of their hungry children.
+- These events force [Raskolnikov](#char-raskolnikov) to confront the raw, human suffering around him — suffering that his cold, logical theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he wonders if sacrificing one "louse" (Alyona) could save countless "Sonya-like" innocents.
+
+### Analysis
+- TODO: include analysis and complete part 2 hyper links
 
 
-Part 3
+## Part 3
 
-Chars
+### Relevant Characters
 - Nastasya: Servant of the landlord who often checks on Raskolnikov.
 - Pulcheria Alexandrovna Raskolnikova: Raskolnikov's mother.
 - Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
 - Arkady Ivanovich Svidrigailov: Landowner/nobleman living off inherited wealth.
 - Martha Petrovna: Wife of Arkady Ivanovich Svidrigailov.
 - Pyotr Petrovich Luzhin: The lawyer who wants to marry Dunya.
-Dict
+
+### Relevant Terms
 - Governess: Private teacher.
 
-Summary
-- 
+### Summary
+-  TODO: finish chapter, write a summary & analysis, polish existing hyperlinks (current point -> Martha's letter to Raskolnikov)
