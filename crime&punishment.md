@@ -1,32 +1,46 @@
 # Crime and Punishment
-
 <i>Crime and Punishment</i> is a 19th century novel by <b>Fyodor Dostoevsky</b> that explores the moral and existential struggles of Raskolnikov, a former student who commits murder to test his theory that extraordinary people are above the law. The novel dives into guilt, redemption, and the consequences of one's actions.
 
 Russian literature is extremely difficult to read and analyze — especially without name tracking and note taking. Hence, this README.
 
+
 ### Main Characters
-- [^c1]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-- [^c2]: Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov[^c1]'s sister.
-- [^c3]: Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov[^c1]'s mother.
-- [^c4]: Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya[^c2].
-- [^c5]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov[^c1] views as harmful to society.
-- [^c6]: (move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov[^c1] meets in a tavern.
-- [^c7]: (move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on Raskolnikov[^c1].
-- [^c8]: (move to supporting?) Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
-- [^c9]: (move to supporting?) Marfa Petrovna (Marfa): Wife of Arkady Ivanovich Svidrigailov[^c8].
+[^c1]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+
+[^c2]: Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov[^c1]'s sister.
+
+[^c3]: Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov[^c1]'s mother.
+
+[^c4]: Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya[^c2].
+
+[^c5]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov[^c1] views as harmful to society.
+
+[^c6]: (move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov[^c1] meets in a tavern.
+
+[^c7]: (move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on Raskolnikov[^c1].
+
+[^c8]: (move to supporting?) Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
+
+[^c9]: (move to supporting?) Marfa Petrovna (Marfa): Wife of Arkady Ivanovich Svidrigailov[^c8].
+
 
 ### Supporting Characters
-- [^c10]: Praskovya Pavlovna (Praskovya): The landlady of Raskolnikov[^c1].
-- [^c11]: Lizaveta Ivanovna (Lizaveta): Alyona Ivanova[^c5]'s meek, innocent, and kind sister.
-- [^c12]: Katarina Ivonova (Katerina): Marmeladov[^c6]'s proud sickly wife.
-- [^c13]: Sonya Semyonovna (Sonya): Marmeladov[^c6]'s daughter who turned to prostitution.
+[^c10]: Praskovya Pavlovna (Praskovya): The landlady of Raskolnikov[^c1].
+
+[^c11]: Lizaveta Ivanovna (Lizaveta): Alyona Ivanova[^c5]'s meek, innocent, and kind sister.
+
+[^c12]: Katarina Ivonova (Katerina): Marmeladov[^c6]'s proud sickly wife.
+
+[^c13]: Sonya Semyonovna (Sonya): Marmeladov[^c6]'s daughter who turned to prostitution.
+
 
 ### Glossary
-- [^g1]: Extraordinary Man Theory: Raskolnikov[^c1] believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
-- [^g2]: Governess: Private teacher.
+[^g1]: Extraordinary Man Theory: Raskolnikov[^c1] believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
+
+[^g2]: Governess: Private teacher.
+
 
 ## Part 1
-
 ### Relevant Characters
 - Raskolnikov[^c1] <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
 - Alyona[^c5] <u title="Pawnbroker, cruel old woman Raskolnikov views as harmful to society."><i>(?)</i></u>
@@ -46,7 +60,6 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 
 ## Part 2
-  
 ### Relevant Characters
 - Raskolnikov[^c1] <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
 - Marmeladov[^c6] <u title="The drunken ex-clerk Raskolnikov meets in a tavern."><i>(?)</i></u>
@@ -63,7 +76,6 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 
 ## Part 3
-
 ### Relevant Characters
 - Raskolnikov[^c1] <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
 - Pulcheria Alexandrovna Raskolnikova[^c3] <u title="Raskolnikov's mother."><i>(?)</i></u>
