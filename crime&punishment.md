@@ -28,8 +28,8 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ## Part 1
 
 ### Relevant Characters
-- Raskolnikov[^c1]
-- Alyona[^c2]
+- [Raskolnikov](#char-raskolnikov)
+- [Alyona](#char-alyona-ivanova)
 - [Lizaveta](#char-lizaveta-ivanovna)
 - [Praskovya](#char-praskovya-pavlovna)
 
@@ -37,9 +37,9 @@ Russian literature is extremely difficult to read and analyze — especially wit
 - [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
 
 ### Summary
-- [Raskolnikov](#char-raskolnikov), a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his [landlady](#char-praskovya-pavlovna) — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
+- Raskolnikov[^c1], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his [landlady](#char-praskovya-pavlovna) — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
 - He's intelligent but mentally deteriorating. He toys with the idea an ["Extraordinary Man" theory](#gloss-extraordinary-man-theory), where extraordinary people (like conquerors or great thinkers) have the right to commit crimes — even murder — if it benefits humanity.
-- He pawns some of his belongings to [Alyona Ivanovna](#char-alyona-ivanova), whom he despises, seeing her as parasitic and cruel, exploiting the poor for profit. He begins to rationalize that killing her could serve a greater purpose — redistributing her wealth to help others. However, he's unsure if he's "extraordinary" enough to actually go through with it.
+- He pawns some of his belongings to Alyona Ivanovna[^c2], whom he despises, seeing her as parasitic and cruel, exploiting the poor for profit. He begins to rationalize that killing her could serve a greater purpose — redistributing her wealth to help others. However, he's unsure if he's "extraordinary" enough to actually go through with it.
 
 ### Analysis
 - [Raskolnikov](#char-raskolnikov)'s pride isolates him from society. He is too arrogant to accept help. He begins to toy with a dangerous idea where it is acceptable to kill people, like [Alyona](#char-alyona-ivanova) (who he views as a money hoarder and parasite), if it benefits others. This is his growing belief but he is unsure if he is extraordinary enough to actually kill her.
