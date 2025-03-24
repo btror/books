@@ -1,5 +1,7 @@
 # Crime and Punishment
 
+test ...[^1]
+
 <i>Crime and Punishment</i> is a 19th century novel by <b>Fyodor Dostoevsky</b> that explores the moral and existential struggles of Raskolnikov, a former student who commits murder to test his theory that extraordinary people are above the law. The novel dives into guilt, redemption, and the consequences of one's actions.
 
 Russian literature is extremely difficult to read and analyze — especially without name tracking and note taking. Hence, this README.
@@ -97,3 +99,5 @@ Russian literature is extremely difficult to read and analyze — especially wit
   - These events will push him more into his theory and he will likely do something very stupid.
 
 TODO: finish part 4, add more hyperlinks to part 3
+
+[^1]: A terrible, terrible idea.
