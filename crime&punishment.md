@@ -5,25 +5,25 @@
 Russian literature is extremely difficult to read and analyze — especially without name tracking and note taking. Hence, this README.
 
 ### Main Characters
-- <a id="char-raskolnikov"></a>Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-- <a id="char-alyona-ivanova"></a>Alyona Ivanova (Alyona): Pawnbroker, cruel old woman [Raskolnikov](#char-raskolnikov) views as harmful to society.
-- <a id="char-marmeladov"></a>(move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk [Raskolnikov](#char-raskolnikov) meets in a tavern.
-- <a id="char-nastasya"></a>(move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on [Raskolnikov](#char-raskolnikov).
-- <a id="char-pulcheria-alexandrovna-raskolnikova"></a>Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): [Raskolnikov](#char-raskolnikov)'s mother.
-- <a id="char-dunya"></a>Avdotya Romanovna Raskolnikova (Dunya): [Raskolnikov](#char-raskolnikov)'s sister.
-- <a id="char-arkady-ivanovich-svidrigailov"></a>(move to supporting?) Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
-- <a id="char-marfa-petrovna"></a>(move to supporting?) Marfa Petrovna (Marfa): Wife of [Arkady Ivanovich Svidrigailov](#char-arkady-ivanovich-svidrigailov).
-- <a id="char-pyotr-petrovich-luzhin"></a>Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry [Dunya](#char-dunya).
+- <span id="char-raskolnikov"></span>Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+- <span id="char-alyona-ivanova"></span>Alyona Ivanova (Alyona): Pawnbroker, cruel old woman [Raskolnikov](#char-raskolnikov) views as harmful to society.
+- <span id="char-marmeladov"></span>(move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk [Raskolnikov](#char-raskolnikov) meets in a tavern.
+- <span id="char-nastasya"></span>(move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on [Raskolnikov](#char-raskolnikov).
+- <span id="char-pulcheria-alexandrovna-raskolnikova"></span>Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): [Raskolnikov](#char-raskolnikov)'s mother.
+- <span id="char-dunya"></span>Avdotya Romanovna Raskolnikova (Dunya): [Raskolnikov](#char-raskolnikov)'s sister.
+- <span id="char-arkady-ivanovich-svidrigailov"></span>(move to supporting?) Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
+- <span id="char-marfa-petrovna"></span>(move to supporting?) Marfa Petrovna (Marfa): Wife of [Arkady Ivanovich Svidrigailov](#char-arkady-ivanovich-svidrigailov).
+- <span id="char-pyotr-petrovich-luzhin"></span>Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry [Dunya](#char-dunya).
 
 ### Supporting Characters
-- <a id="char-praskovya-pavlovna"></a>Praskovya Pavlovna (Praskovya): The landlady of [Raskolnikov](#char-raskolnikov).
-- <a id="char-lizaveta-ivanovna"></a>Lizaveta Ivanovna (Lizaveta): [Alyona Ivanova](#char-alyona-ivanova)'s meek, innocent, and kind sister.
-- <a id="char-katarina-ivonova"></a>Katarina Ivonova (Katerina): [Marmeladov](#char-marmeladov)'s proud sickly wife.
-- <a id="char-sonya-semyonovna"></a>Sonya Semyonovna (Sonya): [Marmeladov](#char-marmeladov)'s daughter who turned to prostitution.
+- <span id="char-praskovya-pavlovna"></span>Praskovya Pavlovna (Praskovya): The landlady of [Raskolnikov](#char-raskolnikov).
+- <span id="char-lizaveta-ivanovna"></span>Lizaveta Ivanovna (Lizaveta): [Alyona Ivanova](#char-alyona-ivanova)'s meek, innocent, and kind sister.
+- <span id="char-katarina-ivonova"></span>Katarina Ivonova (Katerina): [Marmeladov](#char-marmeladov)'s proud sickly wife.
+- <span id="char-sonya-semyonovna"></span>Sonya Semyonovna (Sonya): [Marmeladov](#char-marmeladov)'s daughter who turned to prostitution.
 
 ### Glossary
-- <a id="gloss-extraordinary-man-theory"></a>Extraordinary Man Theory: [Raskolnikov](#char-raskolnikov) believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
-- <a id="gloss-governess"></a>Governess: Private teacher.
+- <span id="gloss-extraordinary-man-theory"></span>Extraordinary Man Theory: [Raskolnikov](#char-raskolnikov) believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
+- <span id="gloss-governess"></span>Governess: Private teacher.
 
 ## Part 1
 
