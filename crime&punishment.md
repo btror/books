@@ -28,13 +28,13 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ## Part 1
 
 ### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- [Alyona](#char-alyona-ivanova)
-- [Lizaveta](#char-lizaveta-ivanovna)
-- [Praskovya](#char-praskovya-pavlovna)
+- [Raskolnikov](#char-raskolnikov) <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
+- [Alyona](#char-alyona-ivanova) <u title="Pawnbroker, cruel old woman Raskolnikov views as harmful to society."><i>(?)</i></u>
+- [Lizaveta](#char-lizaveta-ivanovna) <u title="Alyona's meek, innocent, and kind sister."><i>(?)</i></u>
+- [Praskovya](#char-praskovya-pavlovna) <u title="The landlady of Raskolnikov."><i>(?)</i></u>
 
 ### Relevant Terms
-- [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
+- [Extraordinary Man Theory](#gloss-extraordinary-man-theory) <u title="Raskolnikov believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good."><i>(?)</i></u>
 
 ### Summary
 - [Raskolnikov](#char-raskolnikov), a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his [landlady](#char-praskovya-pavlovna) — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
@@ -48,10 +48,10 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ## Part 2
   
 ### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- [Marmeladov](#char-marmeladov)
-- [Sonya](#char-sonya-semyonovna)
-- [Katarina](#char-katarina-ivonova)
+- [Raskolnikov](#char-raskolnikov) <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
+- [Marmeladov](#char-marmeladov) <u title="The drunken ex-clerk Raskolnikov meets in a tavern."><i>(?)</i></u>
+- [Sonya](#char-sonya-semyonovna) <u title="Marmeladov's daughter who turned to prostitution."><i>(?)</i></u>
+- [Katarina](#char-katarina-ivonova) <u title="Marmeladov's proud sickly wife."><i>(?)</i></u>
 
 ### Summary
 - [Raskolnikov](#char-raskolnikov), overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor and working class, feeling disconnected from them despite his own suffering.
@@ -65,17 +65,17 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ## Part 3
 
 ### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova)
-- [Dunya](#char-dunya)
-- [Luzhin](#char-pyotr-petrovich-luzhin)
-- [Svidrigailov](#char-arkady-ivanovich-svidrigailov)
-- [Marfa](#char-marfa-petrovna)
-- [Nastasya](#char-nastasya)
+- [Raskolnikov](#char-raskolnikov) <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
+- [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova) <u title="Raskolnikov's mother."><i>(?)</i></u>
+- [Dunya](#char-dunya) <u title="Raskolnikov's sister."><i>(?)</i></u>
+- [Luzhin](#char-pyotr-petrovich-luzhin) <u title="The lawyer who wants to marry Dunya"><i>(?)</i></u>
+- [Svidrigailov](#char-arkady-ivanovich-svidrigailov) <u title="Landowner/nobleman living off inherited wealth."><i>(?)</i></u>
+- [Marfa](#char-marfa-petrovna) <u title="Wife of Svidrigailov."><i>(?)</i></u>
+- [Nastasya](#char-nastasya) <u title="Servant of the landlord who often checks on Raskolnikov."><i>(?)</i></u>
 
 ### Relevant Terms
-- [Governess](#gloss-governess)
-- [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
+- [Governess](#gloss-governess) <u title="Private teacher."><i>(?)</i></u>
+- [Extraordinary Man Theory](#gloss-extraordinary-man-theory) <u title="Raskolnikov believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good."><i>(?)</i></u>
 
 ### Summary
 - [Raskolnikov](#char-raskolnikov) receives a letter from his mother, [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova), informing him of what has been going on in her and [Dunya](#char-dunya)'s life. The letter is filled with love and a heavy sense of guilt, sacrifice, and unspoken expectations. She explains [Dunya](#char-dunya)'s engagement to [Luzhin](#char-pyotr-petrovich-luzhin), a wealthy lawyer who is older and unpleasant. [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova) wants a wife that would feel indebted to him for lifting her and her family out of poverty. The letter paints him as controlling and condescending but his mother tries to spin it in a positive way.
