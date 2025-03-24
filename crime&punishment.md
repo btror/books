@@ -5,7 +5,7 @@
 Russian literature is extremely difficult to read and analyze — especially without name tracking and note taking. Hence, this README.
 
 ### Main Characters
-- <span id="char-raskolnikov"></span>Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c1]: - <span id="char-raskolnikov"></span>Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
 - <span id="char-alyona-ivanova"></span>Alyona Ivanova (Alyona): Pawnbroker, cruel old woman [Raskolnikov](#char-raskolnikov) views as harmful to society.
 - <span id="char-marmeladov"></span>(move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk [Raskolnikov](#char-raskolnikov) meets in a tavern.
 - <span id="char-nastasya"></span>(move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on [Raskolnikov](#char-raskolnikov).
@@ -28,7 +28,7 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ## Part 1
 
 ### Relevant Characters
-- [Raskolnikov](#char-raskolnikov) <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
+- [Raskolnikov](#char-raskolnikov)[^c1]
 - [Alyona](#char-alyona-ivanova) <u title="Pawnbroker, cruel old woman Raskolnikov views as harmful to society."><i>(?)</i></u>
 - [Lizaveta](#char-lizaveta-ivanovna) <u title="Alyona's meek, innocent, and kind sister."><i>(?)</i></u>
 - [Praskovya](#char-praskovya-pavlovna) <u title="The landlady of Raskolnikov."><i>(?)</i></u>
