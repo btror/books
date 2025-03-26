@@ -98,6 +98,23 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 TODO: finish part 4, finish footnotes
 
+### Relevant Characters
+- [Raskolnikov](#char-raskolnikov)
+- Dmitri Prokofyevich Razumikhin: University friend of Raskolnikov.
+
+
+### Relevant Terms
+
+
+### Summary
+- Raskolnikov is mad that his family did not ask for his advice.
+- He gives a better picture of his sister in that she is independent and strong, making the marriage antithetical to something she would ordinarilly do unless it was for a good reason - for his sake. He views it as her selling herself. He draws a comparison between Dunya and Sonya. He links the sacrifice Sonya went by going into prostitution for her family to Dunya marrying Luzhin to secure HIS future. He pitties them both and feels guilty.
+- Raskolnikov notices a young woman, drunk, lay down on a bench. She's out of it and not acting like or aware that she is in public. He also notices an older man, in his 30s, stalking the young woman. Raskolnikov screams at the man and joking calls him Svidrigailov then starts to run towards him, intending to fight, up until a police officer grabs Raskolnikov from behind and stops him. He explains that her clothes are torn and that she's been taken advantage of by someone. Raskolnikov and the police try to get her address so they can send her home and away from the man. The police officer assured Raskolnikov that he'd keep her away from him, and oddly, Raskolnikov mocks the police officer by saying to leave them alone and let them have a good time and laughed.
+- He begins to think - what business of it is his? Why not let the devour each other alive? He's also feeling pitty for the girl and the problems she might have to deal with. Raskolnikov is bouncing between different feelings. Maybe its the bitterness he feels towards his sister, Dunya, that's influencing his thoughts.
+- He remembers why he went out - he was going to visit one of his old university aqcuantancies, Razumikhin. He reflects on how nobody liked him at university except for Razumikhin and they were able to get along. Raskolnikov views him as very smart and notes that he is very large and strong. He's poor but lax and can settle with any circumstance and live with it.
+
+### Analysis
+
 
 [^c1]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
 [^c2]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
