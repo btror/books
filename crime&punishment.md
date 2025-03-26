@@ -29,12 +29,12 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
-- [Alyona](#char-alyona-ivanova)
-- [Lizaveta](#char-lizaveta-ivanovna)
-- [Praskovya](#char-praskovya-pavlovna)
+- (new) [Alyona](#char-alyona-ivanova)
+- (new) [Lizaveta](#char-lizaveta-ivanovna)
+- (new) [Praskovya](#char-praskovya-pavlovna)
 
 ### Relevant Terms
-- [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
+- (new) [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
 
 ### Summary
 - Raskolnikov[^c1], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his landlady, Praskovya[^c10] — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
@@ -49,9 +49,9 @@ Russian literature is extremely difficult to read and analyze — especially wit
   
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
-- [Marmeladov](#char-marmeladov)
-- [Sonya](#char-sonya-semyonovna)
-- [Katarina](#char-katarina-ivonova)
+- (new) [Marmeladov](#char-marmeladov)
+- (new) [Sonya](#char-sonya-semyonovna)
+- (new) [Katarina](#char-katarina-ivonova)
 
 ### Summary
 - Raskolnikov[^c1], overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor and working class, feeling disconnected from them despite his own suffering.
@@ -66,15 +66,15 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
-- [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova)
-- [Dunya](#char-dunya)
-- [Luzhin](#char-pyotr-petrovich-luzhin)
-- [Svidrigailov](#char-arkady-ivanovich-svidrigailov)
-- [Marfa](#char-marfa-petrovna)
+- (new) [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova)
+- (new) [Dunya](#char-dunya)
+- (new) [Luzhin](#char-pyotr-petrovich-luzhin)
+- (new) [Svidrigailov](#char-arkady-ivanovich-svidrigailov)
+- (new) [Marfa](#char-marfa-petrovna)
 - [Nastasya](#char-nastasya)
 
 ### Relevant Terms
-- [Governess](#gloss-governess)
+- (new) [Governess](#gloss-governess)
 - [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
 
 ### Summary
@@ -96,24 +96,29 @@ Russian literature is extremely difficult to read and analyze — especially wit
     - On the other hand, he can drown in self-pity and blame the world.
   - These events will push him more into his theory and he will likely do something very stupid.
 
-TODO: finish part 4, finish footnotes
+
+TODO: finish part 4, add footnotes and hyperlinks
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
-- Dmitri Prokofyevich Razumikhin: University friend of Raskolnikov.
-
-
-### Relevant Terms
-
+- (new) Dmitri Prokofyevich Razumikhin: University friend of Raskolnikov. TODO: add to glossary
+- [Dunya](#char-dunya)
+- [Sonya](#char-sonya-semyonovna)
+- [Luzhin](#char-pyotr-petrovich-luzhin)
+- [Svidrigailov](#char-arkady-ivanovich-svidrigailov)
 
 ### Summary
-- Raskolnikov is mad that his family did not ask for his advice.
-- He gives a better picture of his sister in that she is independent and strong, making the marriage antithetical to something she would ordinarilly do unless it was for a good reason - for his sake. He views it as her selling herself. He draws a comparison between Dunya and Sonya. He links the sacrifice Sonya went by going into prostitution for her family to Dunya marrying Luzhin to secure HIS future. He pitties them both and feels guilty.
-- Raskolnikov notices a young woman, drunk, lay down on a bench. She's out of it and not acting like or aware that she is in public. He also notices an older man, in his 30s, stalking the young woman. Raskolnikov screams at the man and joking calls him Svidrigailov then starts to run towards him, intending to fight, up until a police officer grabs Raskolnikov from behind and stops him. He explains that her clothes are torn and that she's been taken advantage of by someone. Raskolnikov and the police try to get her address so they can send her home and away from the man. The police officer assured Raskolnikov that he'd keep her away from him, and oddly, Raskolnikov mocks the police officer by saying to leave them alone and let them have a good time and laughed.
-- He begins to think - what business of it is his? Why not let the devour each other alive? He's also feeling pitty for the girl and the problems she might have to deal with. Raskolnikov is bouncing between different feelings. Maybe its the bitterness he feels towards his sister, Dunya, that's influencing his thoughts.
-- He remembers why he went out - he was going to visit one of his old university aqcuantancies, Razumikhin. He reflects on how nobody liked him at university except for Razumikhin and they were able to get along. Raskolnikov views him as very smart and notes that he is very large and strong. He's poor but lax and can settle with any circumstance and live with it.
+- Raskolnikov is venting and angry that his family didn't ask for his advice.
+- He reflects on his sister, Dunya, describing her as independent and strong — making her marriage to Luzhin feel out of character.
+- He compares Dunya's sacrifice to the hardships Sonya faces supporting her family financially via prostitution. He pities them and feels guilty.
+- Raskolnikov notices a young drunk girl stumble her way to a bench. He also spots an older man, in his 30s, stalking her. Raskolnikov yells at the man, sarcastically calling him "Svidrigailov", and charges toward him ready to fight.
+- A police officer stops Raskolnikov. Raskolnikov explains to him that a creep is following her. The police officer is cooperative and tries to help Raskolnikov get the girl's address so they can put her in a taxi and send her home and keep her away from the man.
+- Raskolnikov mocks the police officer out of nowhere, saying that he should leave them alone to "have a good time". The officer is kind of bewildered but continues on to help the girl as they part from Raskolnikov.
+- Raskolnikov spirals into bitter thoughts about the situation. He wonders why he should even care? Why not let them destroy each other? He then pivots to feeling pity for her and imagines the suffering she's going through. His resentment toward Dunya's situation is fueling his cynicism.
+- Raskolnikov remembers the reason he went out in the first place — to visit his old university friend, Razumikhin, who he views as extremely intelligent and easygoing enough to get along with him, unlike most of the other people at the university. Raskolnikov also notes him as large, strong, and cheerful despite being poor. Razumikhin is good at dealing with tough situations, according to Raskolnikov.
 
 ### Analysis
+- TODO: analyze buildup of events
 
 
 [^c1]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
