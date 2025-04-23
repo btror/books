@@ -97,7 +97,9 @@ Russian literature is extremely difficult to read and analyze — especially wit
   - These events will push him more into his theory and he will likely do something very stupid.
 
 
-TODO: finish part 4, add footnotes and hyperlinks
+TODO: clean up analysis, add hyperlinks
+
+## Part 4
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
@@ -111,15 +113,17 @@ TODO: finish part 4, add footnotes and hyperlinks
 - Raskolnikov is venting and angry that his family didn't ask for his advice.
 - He reflects on his sister, Dunya, describing her as independent and strong — making her marriage to Luzhin feel out of character.
 - He compares Dunya's sacrifice to the hardships Sonya faces supporting her family financially via prostitution. He pities them and feels guilty.
-- Raskolnikov notices a young drunk girl stumble her way to a bench. He also spots an older man, in his 30s, stalking her. Raskolnikov yells at the man, sarcastically calling him "Svidrigailov", and charges toward him ready to fight.
+- Raskolnikov notices a young drunk girl stumble her way to a bench. He also spots an older man, in his 30s, stalking her. Raskolnikov yells at the man, sarcastically calling him "Svidrigailov" (Dunya's former employer), and charges toward him ready to fight.
 - A police officer stops Raskolnikov. Raskolnikov explains to him that a creep is following her. The police officer is cooperative and tries to help Raskolnikov get the girl's address so they can put her in a taxi and send her home and keep her away from the man.
 - Raskolnikov mocks the police officer out of nowhere, saying that he should leave them alone to "have a good time". The officer is kind of bewildered but continues on to help the girl as they part from Raskolnikov.
 - Raskolnikov spirals into bitter thoughts about the situation. He wonders why he should even care? Why not let them destroy each other? He then pivots to feeling pity for her and imagines the suffering she's going through. His resentment toward Dunya's situation is fueling his cynicism.
 - Raskolnikov remembers the reason he went out in the first place — to visit his old university friend, Razumikhin, who he views as extremely intelligent and easygoing enough to get along with him, unlike most of the other people at the university. Raskolnikov also notes him as large, strong, and cheerful despite being poor. Razumikhin is good at dealing with tough situations, according to Raskolnikov.
 
 ### Analysis
-- TODO: analyze buildup of events
+- Raskolnikov's encounter with the drunk girl is a microcosm of the duality within him. He's torn between his extraordinary man theory and his instinctive compassion. He bounces between wanting to be a superior man above morality and feeling guilt and hopelessness like the rest of society would. His disgust towards Luzhin and anger over Dunya's future marriage is a personal example of the theme this encounter is hitting. He loves his mother and sister but that love is twisted by pride and resentment. He doesn't want them to suffer without his say.
 
+
+TODO: chapter 5
 
 [^c1]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
 [^c2]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
