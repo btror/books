@@ -26,7 +26,7 @@ TODO: remove ids and create glossary at bottom for broad defs
 - <span id="gloss-extraordinary-man-theory"></span>Extraordinary Man Theory: [Raskolnikov](#char-raskolnikov) believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
 - <span id="gloss-governess"></span>Governess: Private teacher.
 
-## Part 1
+## Part 1 Chapter 1
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
@@ -46,7 +46,7 @@ TODO: remove ids and create glossary at bottom for broad defs
 - Raskolnikov[^c1raskolnikov]'s pride isolates him from society. He is too arrogant to accept help. He begins to toy with a dangerous idea where it is acceptable to kill people, like Alyona[^c1alyona](who he views as a money hoarder and parasite), if it benefits others. This is his growing belief but he is unsure if he is extraordinary enough to actually kill her.
 
 
-## Part 2
+## Part 1 Chapter 2
   
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
@@ -63,7 +63,7 @@ TODO: remove ids and create glossary at bottom for broad defs
 - These events force Raskolnikov[^c2raskolnikov] to confront the raw, human suffering around him — suffering that his cold, logical theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he wonders if sacrificing one "louse", such as Alyona[^c2alyona], could save countless "Sonya[^c2sonya]-like" innocents.
 
 
-## Part 3
+## Part 1 Chapter 3
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
@@ -98,7 +98,7 @@ TODO: remove ids and create glossary at bottom for broad defs
   - These events will push him more into his theory and he will likely do something very stupid.
 
 
-## Part 4
+## Part 1 Chapter 4
 
 ### Relevant Characters
 - [Raskolnikov](#char-raskolnikov)
@@ -119,7 +119,59 @@ TODO: remove ids and create glossary at bottom for broad defs
 - Raskolnikov[^c4raskolnikov] remembers the reason he went out in the first place — to visit his old university friend, Razumikhin, who he views as extremely intelligent and easygoing enough to get along with him, unlike most of the other people at the university. Raskolnikov[^c4raskolnikov] also notes him as large, strong, and cheerful despite being poor. Razumikhin is good at dealing with tough situations, according to Raskolnikov[^c4raskolnikov].
 
 ### Analysis
-- Raskolnikov[^c4raskolnikov]'s encounter with the drunk girl is a microcosm of the duality within him. He's torn between his extraordinary man theory and his instinctive compassion. He bounces between wanting to be a superior man above morality and feeling guilt and hopelessness like the rest of society would. His disgust towards Luzhin[^c4luzhin] and anger over Dunya[^c4dunya]'s future marriage is a personal example of the theme this encounter is hitting. He loves his mother and sister but that love is twisted by pride and resentment. He doesn't want them to suffer without his say.
+- Raskolnikov[^c4raskolnikov]'s encounter with the drunk girl is a microcosm of the duality within him. He's torn between his extraordinary man theory and his instinctive compassion. 
+- He bounces between wanting to be a superior man above morality and feeling guilt and hopelessness like the rest of society would. 
+- His disgust towards Luzhin[^c4luzhin] and anger over Dunya[^c4dunya]'s future marriage is a personal example of the theme this encounter is hitting. He loves his mother and sister but that love is twisted by pride and resentment. He doesn't want them to suffer without his say.
+
+
+## Part 1 Chapter 5
+
+### Relevant Characters
+- Raskolnikov
+- Marmeladov
+- Sonya
+- Katarina
+- Landlady (Praskovya)
+
+### Summary
+- Raskolnikov stumbles into a tavern and unexpectedly runs into Marmeladov, the drunken man he previously met.
+- Marmeladov is in worse shape and begs Raskolnikov to take him home. He's scared to face his wife, Katarina.
+- They arrive at his apartment and Katarina screams and beats her husband in front of Raskolnikov and their children.
+- She expresses extreme grief and shame over their daughter's prostitution. Raskolnikov gives Katarina some money and leaves.
+- Raskolnikov wanders around for a while and comes across a crowd gathered around someone who was ran over by a carriage. The victim is Marmeladov. Raskolnikov helps carry him home and pays for a doctor and priest.
+- Marmeladov dies with Sonya weeping over him and Katarina loses her mind.
+- Raskolnikov goes home and crashes. His mental state is deteriorating more.
+
+### Analysis
+- Raskolnikov claims to be above morality but he instinctively helped Marmeladov and his family. His actions highlight his inner conflict.
+- This tragedy is an example of self-sacrifice and degradation. Marmeladov's family suffers greatly and Raskolnikov can't ignore it.
+- Sonya is a Christ-like figure who suffers for others. This is deeply unsettling for Raskolnikov.
+- Raskolnikov's decision to help them shows his subconscious rejection of his "extraordinary man" idea. If he was above morality, why would he care?
+
+## Part 1 Chapter 6
+
+### Relevant Characters
+- Raskolnikov
+- Razumikhin
+- Alyona
+- Lizaveta
+
+### Summary
+- Raskolnikov wakes up and is torn by the weight of his thoughts.
+- He leaves to meet Razumikhin but ultimately bails.
+- He thinks about the murder he's been planning on Alyona. He's convinced that it is morally justified to kill a parasite who exploits people.
+- He recalls a conversation he heard in a tavern justifying killing her and redistributing her wealth. This reinforces his extraordinary man theory.
+- He comes up with a plan to carry out the murder. He thinks Alyona's sister, Lizaveta, won't be around Alyona at a specific time which would give him an opening. He also finds a way to conceal an axe under his coat for convenience.
+- He eventually leaves his apartment and goes toward Alyona to conduct the murder.
+
+### Analysis
+- Raskolnikov shifts from theorizing to taking action. The murder is no longer an intellectual debate.
+- His logic is based on utilitarianism. He convinces himself that he'll use her money for the greater good but really is just driven by his own suffering and pride. He wants to be extraordinary.
+- He hates Alyona to the point that she's not even human to him. This makes it easier for him to justify going through with it.
+
+
+## Part 1 Chapter 7
+
 
 
 TODO: add rest of book notes from journal
