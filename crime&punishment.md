@@ -125,34 +125,34 @@ TODO: remove ids and create glossary at bottom for broad defs
 TODO: add rest of book notes from journal
 
 Chapter 1 Character Glossary
-[^c1raskolnikov]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-[^c1praskovya]: Praskovya Pavlovna (Praskovya): The landlady of Raskolnikov.
-[^c1alyona]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+[^c1raskolnikov]: Ch. 1 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c1praskovya]: Ch. 1 Praskovya Pavlovna (Praskovya): The landlady of Raskolnikov.
+[^c1alyona]: Ch. 1 Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
 
 Chapter 2 Character Glossary
-[^c2raskolnikov]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-[^c2marmeladov]: Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
-[^c2sonya]: Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
-[^c2katerina]: Katarina Ivonova (Katerina): Marmeladov's proud sickly wife.
-[^c2alyona]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+[^c2raskolnikov]: Ch. 2 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c2marmeladov]: Ch. 2 Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
+[^c2sonya]: Ch. 2 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
+[^c2katerina]: Ch. 2 Katarina Ivonova (Katerina): Marmeladov's proud sickly wife.
+[^c2alyona]: Ch. 2 Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
 
 Chapter 3 Character Glossary
-[^c3raskolnikov]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-[^c3raskolnikova]: Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother.
-[^c3dunya]: Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
-[^c3luzhin]: Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya.
-[^c3svidrigailov]: Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
-[^c3marfa]: Marfa Petrovna (Marfa): Wife of Arkady Ivanovich Svidrigailov.
-[^c3alyona]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
-[^c3marmeladov]: Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
-[^c3sonya]: Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
+[^c3raskolnikov]: Ch. 3 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c3raskolnikova]: Ch. 3 Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother.
+[^c3dunya]: Ch. 3 Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
+[^c3luzhin]: Ch. 3 Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya.
+[^c3svidrigailov]: Ch. 3 Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
+[^c3marfa]: Ch. 3 Marfa Petrovna (Marfa): Wife of Arkady Ivanovich Svidrigailov.
+[^c3alyona]: Ch. 3 Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+[^c3marmeladov]: Ch. 3 Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
+[^c3sonya]: Ch. 3 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
 
 Chapter 4 Character Glossary
-[^c4raskolnikov]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-[^c4dunya]: Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
-[^c4sonya]: Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
-[^c4luzhin]: Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya.
-[^c4svidrigailov]: Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
+[^c4raskolnikov]: Ch. 4 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c4dunya]: Ch. 4 Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
+[^c4sonya]: Ch. 4 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
+[^c4luzhin]: Ch. 4 Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya.
+[^c4svidrigailov]: Ch. 4 Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
 
 TODO: add rest of chapters from other notes, make glossary characters chapter specific
 
