@@ -172,9 +172,41 @@ TODO: remove ids and create glossary at bottom for broad defs
 
 ## Part 1 Chapter 7
 
+### Relevant Characters
+- Relevant Characters
+- Raskolnikov
+- Alyona Ivanovna
+- Lizaveta
+- Nastasya
+
+### Summary
+- Raskolnikov reaches Alyona's apartment and knocks on her door. He uses a fake pledge to convince her to let him in.
+- Eventually, he strikes her with the axe he was concealing. She falls to the ground and he strikes her again.
+- After she's down, Raskolnikov goes through her things and doesn't really know what he's doing at that point. He's having trouble logically processing what to do next. It's chaotic.
+- Raskolnikov never shut the door to Alyona's apartment after entering. Eventually, Lizaveta, Alyona's half-sister, comes in and sees the body. Raskolnikov's plan assumed that Lizaveta would not be there at the time he planned to kill Alyona.
+- Raskolnkov impulsively kills Lizaveta with his axe out of fear then shuts the door. Eventually, he hears two men outside the apartment in the hallway. The men had business with Alyona and were knocking on the door and trying to get in, as they expected her to be home at that time and were confused why she wasn't answering.
+- At some point they move away briefly to find help, giving Raskolnikov an opening to escape. He slips past them and runs down the stairs with his axe and stolen items. The men who were trying to get in noticed the door wasn't locked soon after and find the bodies. They realized that the murderer was in the apartment while they were trying to get in.
+- Raskolnikov stumbles home and goes through all the stuff he stole and hides them in his apartment. He has blood stains on his clothes and is extremely exhausted. He lays down.
+- Nastasya, the landlady's servant, comes in to check on Raskolnikov. She notices he's in bad shape and tries to talk to him but he's not very responsive and assumes he's sick. She doesn't notice anything otherwise.
 
 
-TODO: add rest of book notes from journal
+### Analysis
+- Raskolnikov shifts from thinking about his plan to executing it. He initially thought that he'd be able to carry out what he rationalized to be a swift, noble act for the greater good, in a methedological, calculated manner. The act was more chaotic and sloppy than he anticipated. It really emphasizes how stuck in his head he is. It's similar to how someone that is really good at Call of Duty might think they could pick up a gun and level with Navy Seals, or someone who's never skateboarded before thinks they can do a kickflip after watching a few videos. Raskolnikov is not as extraordinary as he thinks he is and has a rosey view of himself. Napolean didn't ride a big white stalion over the alps, it was actually a mule or a donkey.
+- Raskolnikov shifts from obsessing over his extraordinary man theory and planning his murder to actually carrying it out, the idea being to fulfill a sexier part in his theory where he is an extraordinary figure that can break rules. He imagined that he'd be able to carry it out with precision and clarity — a swift, noble act for the greater good but when the time comes it's sloppy and chaotic, the opposite of how he envisioned. This shows how trapped in his head he was.
+  - THOUGHT: This is a similar dynamic to someone playing Call Of Duty all day thinking they can level with Navy Seals in combat (Gravy Seals), or someone who has never skateboarded before thinking they can land a kickflip after watching a few hours of kickflip tutorial videos. Theories, schemes, and ideas are not reality.
+  - Raskolnkiv's self-image is a joke. He's not far off from some guy with manboobs flexing in front of a mirror long enough to stop noticing them. He's spent so much time fixating on society's problems that he's trained his mind to see a warped, oversimplified version of reality — one where he's the solution. He sees himself performing a bold, transformative act — like Napoleon crossing the Alps on a majestic white stallion to conquer Europe. The reality is closer to Napoleon riding a mule through the mud, ending with half a million of his men frozen to death in Russia and Napoleon himself exiled to a remote island.
+- <b>(GUILT: core theme)</b> Raskolnikov justified his actions by reducing Alyona to an idea rather than a person. Murdering her was within the bounds of his ideological framework, but when Lizaveta entered the picture it flpped everything upside down. She's not a symbol, she's a person. Murdering her was reflexive and psychologically fractured him. Murdering Alyona was supposed to be a logical act, but Lizaveta's death makes him feel extremely guilty.
+- The rest of the chapter details the physical and mental torment Raskonikov experiences.
+
+TODO: clean up grammar and spelling
+# Part 1 Full Analysis
+- Most of part 1 (chapters 1-6) sets the tone and moral climate of Raskolnikov's world. It's a gray, bleak depiction of 19th-century Russian society rife with poverty, humiliation, and transactional human relationships. Most of the characters introduced are enduring some form of suffering (see Marmeladov's story, Dunya's story, Alyona's story) that fuel Raskolnikov's ideology — the world is so morally bankrupt that someone has to take extraordinary action and rise above it. His extraordinary man theory begins to take shape. This theory is not just based on society's problems, it's also deeply emotional and reflects his ego, pride, and isolation (the author went out of his way several times to emphasize the antisocial nature of Raskolnikov's character such as purposely avoiding people, etc). Raskolnikov develops from a timid, nervous, soft-spoken ideologue into an angrier bitter person who has more (is manic the right word?) outbursts (see chapter 4 where he mocks the police officer).
+- At the end of part 1 (chapter 7), Raskolnikov's theorizing meets the ugly weight of reality. His detailed plan to murder Alyona, the pawnbroker, was not as clean and swift as he imagined. It was chaotic and sloppy and ended in tragedy with Alyona's sister, Lizaveta, being murdered too — which was outside the bounds of his moral framework. The rest of the chapter details the extreme guilt he feels. The physical and mental torment Raskolnikov experiences is just the beginning of his punishment.
+- Part 1 is the build up to, and including, the crime then ends at the early stages of guilt and punishment.
+
+TODO: links
+TODO: part 2 chapters from journal
+
 
 Chapter 1 Character Glossary
 [^c1raskolnikov]: Ch. 1 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
