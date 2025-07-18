@@ -29,12 +29,12 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ### Characters
 - Raskolnikov
-- (new) Alyona
-- (new) Lizaveta
-- (new) Praskovya
+- Alyona
+- Lizaveta
+- Praskovya
 
 ### Terms
-- (new) Extraordinary Man Theory
+- Extraordinary Man Theory
 
 ### Summary
 - Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his landlady, Praskovya[^c1praskovya] — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
@@ -50,9 +50,9 @@ Russian literature is extremely difficult to read and analyze — especially wit
   
 ### Characters
 - Raskolnikov
-- (new) Marmeladov
-- (new) Sonya
-- (new) Katarina
+- Marmeladov
+- Sonya
+- Katarina
 
 ### Summary
 - Raskolnikov[^c2raskolnikov], overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor and working class, feeling disconnected from them despite his own suffering.
@@ -68,15 +68,15 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ### Characters
 - Raskolnikov
-- (new) Pulcheria Alexandrovna Raskolnikova
-- (new) Dunya
-- (new) Luzhin
-- (new) Svidrigailov
-- (new) Marfa
+- Pulcheria Alexandrovna Raskolnikova
+- Dunya
+- Luzhin
+- Svidrigailov
+- Marfa
 - Nastasya
 
 ### Terms
-- (new) Governess
+- Governess
 - Extraordinary Man Theory
 
 ### Summary
@@ -104,7 +104,7 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ### Characters
 - Raskolnikov
-- (new) Dmitri Prokofyevich Razumikhin
+- Dmitri Prokofyevich Razumikhin
 - Dunya
 - Sonya
 - Luzhin
