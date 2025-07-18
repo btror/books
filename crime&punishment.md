@@ -117,6 +117,7 @@ Russian literature is extremely difficult to read and analyze — especially wit
 - Raskolnikov[^c4raskolnikov] spirals into bitter thoughts about the situation. He wonders why he should even care? Why not let them destroy each other? He then pivots to feeling pity for her and imagines the suffering she's going through. His resentment toward Dunya[^c4dunya]'s situation is fueling his cynicism.
 - Raskolnikov[^c4raskolnikov] remembers the reason he went out in the first place — to visit his old university friend, Razumikhin, who he views as extremely intelligent and easygoing enough to get along with him, unlike most of the other people at the university. Raskolnikov[^c4raskolnikov] also notes him as large, strong, and cheerful despite being poor. Razumikhin is good at dealing with tough situations, according to Raskolnikov[^c4raskolnikov].
 
+TODO: clean up analysis - this is a good spot where we see his theory and reality butting heads.
 ### Analysis
 - Raskolnikov[^c4raskolnikov]'s encounter with the drunk girl is a microcosm of the duality within him. He's torn between his extraordinary man theory[^gemt] and his instinctive compassion. 
 - He bounces between wanting to be a superior man above morality and feeling guilt and hopelessness like the rest of society would. 
