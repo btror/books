@@ -37,13 +37,16 @@ Russian literature is extremely difficult to read and analyze — especially wit
 - Extraordinary Man Theory
 
 ### Summary
-- Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his landlady, Praskovya[^c1praskovya] — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
-- He's intelligent but mentally deteriorating. He toys with the idea an extraordinary man theory[^gemt], where extraordinary people (like conquerors or great thinkers) are above morality and have the right to commit crimes — even murder — if it benefits humanity.
-- He pawns some of his belongings to Alyona Ivanovna[^c1alyona], whom he despises, seeing her as parasitic and cruel, exploiting the poor for profit. He begins to rationalize that killing her could serve a greater purpose — redistributing her wealth to help others. However, he's unsure if he's extraordinary enough to actually go through with it.
+- Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people, including his friends and landlady, Praskovya[^c1praskovya], out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
+- He's intelligent but mentally deteriorating. He toys with the idea an extraordinary man theory[^gemt], where extraordinary people (like conquerors or great thinkers) are above morality and have the right to commit crimes, even murder, if it benefits humanity.
+- He visits Alyona Ivanovna[^c1alyona], a pawnbroker, to sell his watch. The watch is a family heirloom that belonged to his father and held great sentimental value. Raskolnikov[^c1raskolnikov] decided to part with it because he really needed money.
+- The pawnbroker, a greedy old woman, recognizes his desperation and gives an insultingly low offer because he has no real alternative. He accepts the offer — aware he's being exploited.
 
 ### Analysis
 - Raskolnikov[^c1raskolnikov] is in debt, isolated, and barely able to interact with people. He is internally conflicted and fixated on his theory that it is okay to cross moral boundaries for a greater good. He rationalizes that it is acceptable for extraordinary people to operate outside the bounds of the law and societal norms.
 - The pawnbroker, Alyona[^c1alyona], is a symbol of greed that fuels Raskolnikov[^c1raskolnikov]'s ideas. Her exploitation of desperate people affirms his belief that she is harmful to society and shouldn't exist.
+  - From a transactional perspective, an item is only as valuable as someone is willing to pay and often involves other variables outside of what it ordinarilly may be. That dynamic isn't necessarily bad, but if desperation is the <i>key</i> variable a moral boundary is being violated. Just because you <i>can</i> do something doesn't mean you <i>should</i>. Capitalism is an economic system, not a moral one. One system cannot address every need.
+  - The underlying issue is that the moral bleakness of St. Petersburg undermines its institutions by fueling resentment, especially among the lower class. The lack of a complimentary moral system sets the stage for elites to punch down if they want. This friction between greed and desperation is perfectly demonstrated between Raskolnikov[^c1raskolnikov] and Alyona[^c1alyona]. If it grows there will be a catastrophic outcome. A society with no moral backbone is like a plane without wings — it won't fly.
 
 
 
