@@ -7,19 +7,19 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ---
 
 ### Characters
-- <i>Rodion Romanovich Raskolnikov</i> (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-- <i>Alyona Ivanova</i> (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
-- <i>Semyon Zakharovich Marmeladov</i> (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
-- <i>Nastasya Petrovna</i> (Nastasya): Servant of the landlord who often checks on Raskolnikov.
-- <i>Pulcheria Alexandrovna Raskolnikova</i> (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother.
-- <i>Avdotya Romanovna Raskolnikova</i> (Dunya): Raskolnikov's sister.
-- <i>Arkady Ivanovich Svidrigailov</i> (Svidrigailov): Landowner/nobleman living off inherited wealth.
-- <i>Marfa Petrovna</i> (Marfa): Wife of Arkady Ivanovich Svidrigailov.
-- <i>Pyotr Petrovich Luzhin</i> (Luzhin): The lawyer who wants to marry Dunya.
-- <i>Praskovya Pavlovna</i> (Praskovya): The landlady of Raskolnikov.
-- <i>Lizaveta Ivanovna</i> (Lizaveta): Alyona Ivanova's meek, innocent, and kind sister.
-- <i>Katarina Ivonova</i> (Katerina): Marmeladov's proud sickly wife.
-- <i>Sonya Semyonovna</i> (Sonya): Marmeladov's daughter who turned to prostitution.
+- <i>Rodion Romanovich Raskolnikov</i> (<b>Raskolnikov</b>): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+- <i>Alyona Ivanova</i> (<b>Alyona</b>): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+- <i>Semyon Zakharovich Marmeladov</i> (<b>Marmeladov</b>): The drunken ex-clerk Raskolnikov meets in a tavern.
+- <i>Nastasya Petrovna</i> (<b>Nastasya</b>): Servant of the landlord who often checks on Raskolnikov.
+- <i>Pulcheria Alexandrovna Raskolnikova</i> (<b>Raskolnikova</b> in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother.
+- <i>Avdotya Romanovna Raskolnikova</i> (<b>Dunya</b>): Raskolnikov's sister.
+- <i>Arkady Ivanovich Svidrigailov</i> (<b>Svidrigailov</b>): Landowner/nobleman living off inherited wealth.
+- <i>Marfa Petrovna</i> (<b>Marfa</b>): Wife of Arkady Ivanovich Svidrigailov.
+- <i>Pyotr Petrovich Luzhin</i> (<b>Luzhin</b>): The lawyer who wants to marry Dunya.
+- <i>Praskovya Pavlovna</i> (<b>Praskovya</b>): The landlady of Raskolnikov.
+- <i>Lizaveta Ivanovna</i> (<b>Lizaveta</b>): Alyona Ivanova's meek, innocent, and kind sister.
+- <i>Katarina Ivonova</i> (<b>Katerina</b>): Marmeladov's proud sickly wife.
+- <i>Sonya Semyonovna</i> (<b>Sonya</b>): Marmeladov's daughter who turned to prostitution.
 
 ---
 
