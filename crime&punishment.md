@@ -173,6 +173,7 @@ TODO: clean up analysis - this is a good spot where we see his theory and realit
 
 
 
+TODO: analysis is repetitive and long
 ## Part 1 Chapter 7
 
 ### Characters
