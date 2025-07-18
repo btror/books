@@ -4,38 +4,37 @@
 
 Russian literature is extremely difficult to read and analyze — especially without name tracking and note taking. Hence, this README.
 
-TODO: remove ids and create glossary at bottom for broad defs
-### Main Characters
-- <span id="char-raskolnikov"></span>Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
-- <span id="char-alyona-ivanova"></span>Alyona Ivanova (Alyona): Pawnbroker, cruel old woman [Raskolnikov](#char-raskolnikov) views as harmful to society.
-- <span id="char-marmeladov"></span>(move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk [Raskolnikov](#char-raskolnikov) meets in a tavern.
-- <span id="char-nastasya"></span>(move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on [Raskolnikov](#char-raskolnikov).
-- <span id="char-pulcheria-alexandrovna-raskolnikova"></span>Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): [Raskolnikov](#char-raskolnikov)'s mother.
-- <span id="char-dunya"></span>Avdotya Romanovna Raskolnikova (Dunya): [Raskolnikov](#char-raskolnikov)'s sister.
-- <span id="char-arkady-ivanovich-svidrigailov"></span>(move to supporting?) Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
-- <span id="char-marfa-petrovna"></span>(move to supporting?) Marfa Petrovna (Marfa): Wife of [Arkady Ivanovich Svidrigailov](#char-arkady-ivanovich-svidrigailov).
-- <span id="char-pyotr-petrovich-luzhin"></span>Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry [Dunya](#char-dunya).
+---
 
-### Supporting Characters
-- <span id="char-praskovya-pavlovna"></span>Praskovya Pavlovna (Praskovya): The landlady of [Raskolnikov](#char-raskolnikov).
-- <span id="char-lizaveta-ivanovna"></span>Lizaveta Ivanovna (Lizaveta): [Alyona Ivanova](#char-alyona-ivanova)'s meek, innocent, and kind sister.
-- <span id="char-katarina-ivonova"></span>Katarina Ivonova (Katerina): [Marmeladov](#char-marmeladov)'s proud sickly wife.
-- <span id="char-sonya-semyonovna"></span>Sonya Semyonovna (Sonya): [Marmeladov](#char-marmeladov)'s daughter who turned to prostitution.
+### Characters
+- <i>Rodion Romanovich Raskolnikov</i> (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+- <i>Alyona Ivanova</i> (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+- <i>Semyon Zakharovich Marmeladov</i> (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
+- <i>Nastasya Petrovna</i> (Nastasya): Servant of the landlord who often checks on Raskolnikov.
+- <i>Pulcheria Alexandrovna Raskolnikova</i> (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother.
+- <i>Avdotya Romanovna Raskolnikova</i> (Dunya): Raskolnikov's sister.
+- <i>Arkady Ivanovich Svidrigailov</i> (Svidrigailov): Landowner/nobleman living off inherited wealth.
+- <i>Marfa Petrovna</i> (Marfa): Wife of Arkady Ivanovich Svidrigailov.
+- <i>Pyotr Petrovich Luzhin</i> (Luzhin): The lawyer who wants to marry Dunya.
+- <i>Praskovya Pavlovna</i> (Praskovya): The landlady of Raskolnikov.
+- <i>Lizaveta Ivanovna</i> (Lizaveta): Alyona Ivanova's meek, innocent, and kind sister.
+- <i>Katarina Ivonova</i> (Katerina): Marmeladov's proud sickly wife.
+- <i>Sonya Semyonovna</i> (Sonya): Marmeladov's daughter who turned to prostitution.
 
-### Glossary
-- <span id="gloss-extraordinary-man-theory"></span>Extraordinary Man Theory: [Raskolnikov](#char-raskolnikov) believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
-- <span id="gloss-governess"></span>Governess: Private teacher.
+---
+
+# Part 1 
 
 ## Part 1 Chapter 1
 
-### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- (new) [Alyona](#char-alyona-ivanova)
-- (new) [Lizaveta](#char-lizaveta-ivanovna)
-- (new) [Praskovya](#char-praskovya-pavlovna)
+### Characters
+- Raskolnikov
+- (new) Alyona
+- (new) Lizaveta
+- (new) Praskovya
 
-### Relevant Terms
-- (new) [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
+### Terms
+- (new) Extraordinary Man Theory
 
 ### Summary
 - Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his landlady, Praskovya[^c1praskovya] — out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
@@ -46,13 +45,14 @@ TODO: remove ids and create glossary at bottom for broad defs
 - Raskolnikov[^c1raskolnikov]'s pride isolates him from society. He is too arrogant to accept help. He begins to toy with a dangerous idea where it is acceptable to kill people, like Alyona[^c1alyona](who he views as a money hoarder and parasite), if it benefits others. This is his growing belief but he is unsure if he is extraordinary enough to actually kill her.
 
 
+
 ## Part 1 Chapter 2
   
-### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- (new) [Marmeladov](#char-marmeladov)
-- (new) [Sonya](#char-sonya-semyonovna)
-- (new) [Katarina](#char-katarina-ivonova)
+### Characters
+- Raskolnikov
+- (new) Marmeladov
+- (new) Sonya
+- (new) Katarina
 
 ### Summary
 - Raskolnikov[^c2raskolnikov], overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor and working class, feeling disconnected from them despite his own suffering.
@@ -63,20 +63,21 @@ TODO: remove ids and create glossary at bottom for broad defs
 - These events force Raskolnikov[^c2raskolnikov] to confront the raw, human suffering around him — suffering that his cold, logical theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he wonders if sacrificing one "louse", such as Alyona[^c2alyona], could save countless "Sonya[^c2sonya]-like" innocents.
 
 
+
 ## Part 1 Chapter 3
 
-### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- (new) [Pulcheria Alexandrovna Raskolnikova](#char-pulcheria-alexandrovna-raskolnikova)
-- (new) [Dunya](#char-dunya)
-- (new) [Luzhin](#char-pyotr-petrovich-luzhin)
-- (new) [Svidrigailov](#char-arkady-ivanovich-svidrigailov)
-- (new) [Marfa](#char-marfa-petrovna)
-- [Nastasya](#char-nastasya)
+### Characters
+- Raskolnikov
+- (new) Pulcheria Alexandrovna Raskolnikova
+- (new) Dunya
+- (new) Luzhin
+- (new) Svidrigailov
+- (new) Marfa
+- Nastasya
 
-### Relevant Terms
-- (new) [Governess](#gloss-governess)
-- [Extraordinary Man Theory](#gloss-extraordinary-man-theory)
+### Terms
+- (new) Governess
+- Extraordinary Man Theory
 
 ### Summary
 - Raskolnikov[^c3raskolnikov] receives a letter from his mother, Pulcheria Alexandrovna Raskolnikova[^c3raskolnikova], informing him of what has been going on in her and Dunya[^c3dunya]'s life. The letter is filled with love and a heavy sense of guilt, sacrifice, and unspoken expectations. She explains Dunya[^c3dunya]'s engagement to Luzhin[^c3luzhin], a wealthy lawyer who is older and unpleasant. Pulcheria Alexandrovna Raskolnikova[^c3raskolnikova] wants a wife that would feel indebted to him for lifting her and her family out of poverty. The letter paints him as controlling and condescending but his mother tries to spin it in a positive way.
@@ -98,15 +99,16 @@ TODO: remove ids and create glossary at bottom for broad defs
   - These events will push him more into his theory and he will likely do something very stupid.
 
 
+
 ## Part 1 Chapter 4
 
-### Relevant Characters
-- [Raskolnikov](#char-raskolnikov)
-- (new) Dmitri Prokofyevich Razumikhin: University friend of Raskolnikov.
-- [Dunya](#char-dunya)
-- [Sonya](#char-sonya-semyonovna)
-- [Luzhin](#char-pyotr-petrovich-luzhin)
-- [Svidrigailov](#char-arkady-ivanovich-svidrigailov)
+### Characters
+- Raskolnikov
+- (new) Dmitri Prokofyevich Razumikhin
+- Dunya
+- Sonya
+- Luzhin
+- Svidrigailov
 
 ### Summary
 - Raskolnikov[^c4raskolnikov] is venting and angry that his family didn't ask for his advice.
@@ -124,9 +126,10 @@ TODO: remove ids and create glossary at bottom for broad defs
 - His disgust towards Luzhin[^c4luzhin] and anger over Dunya[^c4dunya]'s future marriage is a personal example of the theme this encounter is hitting. He loves his mother and sister but that love is twisted by pride and resentment. He doesn't want them to suffer without his say.
 
 
+
 ## Part 1 Chapter 5
 
-### Relevant Characters
+### Characters
 - Raskolnikov
 - Marmeladov
 - Sonya
@@ -147,9 +150,11 @@ TODO: remove ids and create glossary at bottom for broad defs
 - Sonya[^c5sonya] is a Christ-like figure who suffers for others. This is deeply unsettling for Raskolnikov[^c5raskolnikov].
 - Raskolnikov[^c5raskolnikov]'s decision to help them shows his subconscious rejection of his "extraordinary man" idea. If he was above morality, why would he care?
 
+
+
 ## Part 1 Chapter 6
 
-### Relevant Characters
+### Characters
 - Raskolnikov
 - Razumikhin
 - Alyona
@@ -169,9 +174,10 @@ TODO: remove ids and create glossary at bottom for broad defs
 - He hates Alyona[^c6alyona] to the point that she's not even human to him. This makes it easier for him to justify going through with it.
 
 
+
 ## Part 1 Chapter 7
 
-### Relevant Characters
+### Characters
 - Raskolnikov
 - Alyona
 - Lizaveta
@@ -187,7 +193,6 @@ TODO: remove ids and create glossary at bottom for broad defs
 - Raskolnikov[^c7raskolnikov] stumbles home and goes through all the stuff he stole and hides them in his apartment. He has blood stains on his clothes and is extremely exhausted. He lays down.
 - Nastasya[^c7nastasya], the landlady's servant, comes in to check on Raskolnikov[^c7raskolnikov]. She notices he's in bad shape and tries to talk to him but he's not very responsive and assumes he's sick. She doesn't notice anything otherwise.
 
-
 ### Analysis
 - Raskolnikov[^c7raskolnikov] shifts from thinking about his plan to executing it. He initially thought that he'd be able to carry out what he rationalized to be a swift, noble act for the greater good, in a methedological, calculated manner. The act was more chaotic and sloppy than he anticipated. It really emphasizes how stuck in his head he is. It's similar to how someone that is really good at Call of Duty might think they could pick up a gun and level with Navy Seals, or someone who's never skateboarded before thinks they can do a kickflip after watching a few videos. Raskolnikov[^c7raskolnikov] is not as extraordinary as he thinks he is and has a rosey view of himself. Napolean didn't ride a big white stalion over the alps, it was actually a mule or a donkey.
 - Raskolnikov[^c7raskolnikov] shifts from obsessing over his extraordinary man theory[^gemt] and planning his murder to actually carrying it out, the idea being to fulfill a sexier part in his theory where he is an extraordinary figure that can break rules. He imagined that he'd be able to carry it out with precision and clarity — a swift, noble act for the greater good but when the time comes it's sloppy and chaotic, the opposite of how he envisioned. This shows how trapped in his head he was.
@@ -195,6 +200,8 @@ TODO: remove ids and create glossary at bottom for broad defs
   - Raskolnkiv's self-image is a joke. He's not far off from some guy with manboobs flexing in front of a mirror long enough to stop noticing them. He's spent so much time fixating on society's problems that he's trained his mind to see a warped, oversimplified version of reality — one where he's the solution. He sees himself performing a bold, transformative act — like Napoleon crossing the Alps on a majestic white stallion to conquer Europe. The reality is closer to Napoleon riding a mule through the mud, ending with half a million of his men frozen to death in Russia and Napoleon himself exiled to a remote island.
 - <b>(GUILT: core theme)</b> Raskolnikov[^c7raskolnikov] justified his actions by reducing Alyona[^c7alyona] to an idea rather than a person. Murdering her was within the bounds of his ideological framework, but when Lizaveta[^c7lizaveta] entered the picture it flpped everything upside down. She's not a symbol, she's a person. Murdering her was reflexive and psychologically fractured him. Murdering Alyona[^c7alyona] was supposed to be a logical act, but Lizaveta[^c7lizaveta]'s death makes him feel extremely guilty.
 - The rest of the chapter details the physical and mental torment Raskolnikov[^c7raskolnikov] experiences.
+
+
 
 TODO: clean up grammar and spelling
 ## Part 1 Full Analysis
@@ -205,6 +212,14 @@ TODO: clean up grammar and spelling
 TODO: links
 TODO: part 2 chapters from journal
 
+---
+
+# Part 2
+
+## Part 2 Chapter 1
+
+
+---
 
 Chapter 1 Character Glossary
 [^c1raskolnikov]: Ch. 1 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
