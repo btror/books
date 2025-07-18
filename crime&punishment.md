@@ -39,7 +39,7 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ### Summary
 - Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people, including his friends and landlady, Praskovya[^c1praskovya], out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
 - He's intelligent but mentally deteriorating. He toys with the idea an extraordinary man theory[^gemt], where extraordinary people (like conquerors or great thinkers) are above morality and have the right to commit crimes, even murder, if it benefits humanity.
-- He visits Alyona Ivanovna[^c1alyona], a pawnbroker, to sell his watch. The watch is a family heirloom that belonged to his father and held great sentimental value. Raskolnikov[^c1raskolnikov] decided to part with it because he really needed money.
+- He visits Alyona Ivanovna[^c1alyona], a pawnbroker, to sell his watch. The watch is a family heirloom that belonged to his father and holds great sentimental value. Raskolnikov[^c1raskolnikov] decided to part with it because he really needed money.
 - The pawnbroker, a greedy old woman, recognizes his desperation and gives an insultingly low offer because he has no real alternative. He accepts the offer — aware he's being exploited.
 
 ### Analysis
