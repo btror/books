@@ -61,7 +61,7 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ### Summary
 - Raskolnikov[^c2raskolnikov], overwhelmed and spiraling, wanders around and eventually ends up in a tavern. In the tavern he observes the shared misery of the poor and working class.
 - A drunk man, Marmeladov[^c2marmeladov], strikes up a conversation with Raskolnikov[^c2raskolnikov]. He gives a long, emotional monologue about his family's turmoil.
-- Marmeladov[^c2marmeladov] is eager to confess his misery. He's a former government clerk who lost his job and blows all his family's money on alochol. His daughter, Sonya[^c2sonya], entered prostitution to keep the family stable. He is drowning in self-pity and says he feels immeasurable guilt and shame.
+- Marmeladov[^c2marmeladov] is eager to confess his misery. He's a former government clerk who lost his job and blows all his family's money on alochol. His daughter, Sonya[^c2sonya], entered prostitution to keep the family financially afloat. Meanwhile, he's drowning in self-pity and pulling the rest of them under. He feels immeasurable guilt and shame, ultimately taking no action.
   - He insists that God will forgive Sonya[^c2sonya], saying she's "holy through suffering".
 - Raskolnikov[^c2raskolnikov] is moved by Marmeladov[^c2marmeladov] and helps him return home. When they get there Marmeladov[^c2marmeladov]'s wife, Katarina[^c2katerina], berates him in front of their hungry children and Raskolnikov[^c2raskolnikov]. Raskolnikov[^c2raskolnikov] eventually leaves.
 
