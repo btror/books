@@ -3,109 +3,272 @@
 
 Russian literature is extremely difficult to read and analyze — especially without name tracking and note taking. Hence, this README.
 
+---
 
-### Main Characters
-[^c1]: Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+### Characters
+- <i>Rodion Romanovich Raskolnikov</i> (<b>Raskolnikov</b>): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+- <i>Alyona Ivanova</i> (<b>Alyona</b>): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+- <i>Semyon Zakharovich Marmeladov</i> (<b>Marmeladov</b>): The drunken ex-clerk Raskolnikov meets in a tavern.
+- <i>Nastasya Petrovna</i> (<b>Nastasya</b>): Servant of the landlord who often checks on Raskolnikov.
+- <i>Pulcheria Alexandrovna Raskolnikova</i> (<b>Raskolnikova</b> in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother.
+- <i>Avdotya Romanovna Raskolnikova</i> (<b>Dunya</b>): Raskolnikov's sister.
+- <i>Arkady Ivanovich Svidrigailov</i> (<b>Svidrigailov</b>): Landowner/nobleman living off inherited wealth.
+- <i>Marfa Petrovna</i> (<b>Marfa</b>): Wife of Arkady Ivanovich Svidrigailov.
+- <i>Pyotr Petrovich Luzhin</i> (<b>Luzhin</b>): The lawyer who wants to marry Dunya.
+- <i>Praskovya Pavlovna</i> (<b>Praskovya</b>): The landlady of Raskolnikov.
+- <i>Lizaveta Ivanovna</i> (<b>Lizaveta</b>): Alyona Ivanova's meek, innocent, and kind sister.
+- <i>Katarina Ivonova</i> (<b>Katerina</b>): Marmeladov's proud sickly wife.
+- <i>Sonya Semyonovna</i> (<b>Sonya</b>): Marmeladov's daughter who turned to prostitution.
 
-[^c2]: Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov[^c1]'s sister.
+---
 
-[^c3]: Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov[^c1]'s mother.
+# Part 1 
 
-[^c4]: Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya[^c2].
+## Part 1 Chapter 1
 
-[^c5]: Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov[^c1] views as harmful to society.
+### Characters
+- Raskolnikov
+- Alyona
+- Lizaveta
+- Praskovya
 
-[^c6]: (move to supporting?) Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov[^c1] meets in a tavern.
-
-[^c7]: (move to supporting?) Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on Raskolnikov[^c1].
-
-[^c8]: (move to supporting?) Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
-
-[^c9]: (move to supporting?) Marfa Petrovna (Marfa): Wife of Arkady Ivanovich Svidrigailov[^c8].
-
-
-### Supporting Characters
-[^c10]: Praskovya Pavlovna (Praskovya): The landlady of Raskolnikov[^c1].
-
-[^c11]: Lizaveta Ivanovna (Lizaveta): Alyona Ivanova[^c5]'s meek, innocent, and kind sister.
-
-[^c12]: Katarina Ivonova (Katerina): Marmeladov[^c6]'s proud sickly wife.
-
-[^c13]: Sonya Semyonovna (Sonya): Marmeladov[^c6]'s daughter who turned to prostitution.
-
-
-### Glossary
-[^g1]: Extraordinary Man Theory: Raskolnikov[^c1] believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
-
-[^g2]: Governess: Private teacher.
-
-
-## Part 1
-### Relevant Characters
-- Raskolnikov[^c1] <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
-- Alyona[^c5] <u title="Pawnbroker, cruel old woman Raskolnikov views as harmful to society."><i>(?)</i></u>
-- Lizaveta[^c11] <u title="Alyona's meek, innocent, and kind sister."><i>(?)</i></u>
-- Praskovya[^c10] <u title="The landlady of Raskolnikov."><i>(?)</i></u>
-
-### Relevant Terms
-- Extraordinary Man Theory[^g1] <u title="Raskolnikov believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good."><i>(?)</i></u>
+### Terms
+- Extraordinary Man Theory
 
 ### Summary
-- Raskolnikov[^c1], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people — including his friends and his landlady, Praskovya[^c12], out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
-- He's intelligent but mentally deteriorating. He toys with the idea an "Extraordinary Man" theory[^g2], where extraordinary people (like conquerors or great thinkers) have the right to commit crimes — even murder — if it benefits humanity.
-- He pawns some of his belongings to Alyona Ivanovna[^c5], whom he despises, seeing her as parasitic and cruel, exploiting the poor for profit. He begins to rationalize that killing her could serve a greater purpose — redistributing her wealth to help others. However, he's unsure if he's "extraordinary" enough to actually go through with it.
+- Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people, including his friends and landlady, Praskovya[^c1praskovya], out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
+- He's intelligent but mentally deteriorating. He toys with the idea an extraordinary man theory[^gemt], where extraordinary people (like conquerors or great thinkers) are above morality and have the right to commit crimes, even murder, if it benefits humanity.
+- He visits Alyona Ivanovna[^c1alyona], a pawnbroker, to sell his watch. The watch is a family heirloom that belonged to his father and holds great sentimental value. Raskolnikov[^c1raskolnikov] decided to part with it because he really needed money.
+- The pawnbroker, a greedy old woman, recognizes his desperation and gives an insultingly low offer because he has no real alternative. He accepts the offer — aware he's being exploited.
 
 ### Analysis
-- Raskolnikov[^c1]'s pride isolates him from society. He is too arrogant to accept help. He begins to toy with a dangerous idea where it is acceptable to kill people, like Alyona[^c5] (who he views as a money hoarder and parasite), if it benefits others. This is his growing belief but he is unsure if he is extraordinary enough to actually kill her.
+- Raskolnikov[^c1raskolnikov] is in debt, isolated, and barely able to interact with people. He is internally conflicted and fixated on his theory that it is okay to cross moral boundaries for a greater good. He rationalizes that it is acceptable for extraordinary people to operate outside the bounds of the law and societal norms.
+- The pawnbroker, Alyona[^c1alyona], is a symbol of greed that fuels Raskolnikov[^c1raskolnikov]'s ideas. Her exploitation of desperate people affirms his belief that she is harmful to society and shouldn't exist.
+  - From a transactional perspective, an item is only as valuable as someone is willing to pay and often involves other variables outside of what it ordinarilly may be. That dynamic isn't necessarily bad, but if desperation is the <i>key</i> variable a moral boundary is being violated. Just because you <i>can</i> do something doesn't mean you <i>should</i>. Capitalism is an economic system, not a moral one. One system cannot address every need.
+  - The underlying issue is that the moral bleakness of St. Petersburg undermines its institutions by fueling resentment, especially among the lower class. The lack of a complimentary moral system sets the stage for elites to punch down if they want. This friction between greed and desperation is perfectly demonstrated between Raskolnikov[^c1raskolnikov] and Alyona[^c1alyona]. If it grows there will be a catastrophic outcome. A society with no moral backbone is like a plane without wings — it won't fly.
 
 
-## Part 2
-### Relevant Characters
-- Raskolnikov[^c1] <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
-- Marmeladov[^c6] <u title="The drunken ex-clerk Raskolnikov meets in a tavern."><i>(?)</i></u>
-- Sonya[^c13] <u title="Marmeladov's daughter who turned to prostitution."><i>(?)</i></u>
-- Katarina[^c12] <u title="Marmeladov's proud sickly wife."><i>(?)</i></u>
+
+## Part 1 Chapter 2
+  
+### Characters
+- Raskolnikov
+- Marmeladov
+- Sonya
+- Katarina
 
 ### Summary
-- Raskolnikov[^c1], overwhelmed and spiraling, wanders the streets and ends up in a tavern. He's on the verge of a mental breakdown and is completely detached from reality. He observes the shared misery of the poor and working class, feeling disconnected from them despite his own suffering.
-- Marmeladov[^c6], a pitiful, drunken man, strikes up a conversation with Raskolnikov[^c1]. He gives a long, emotional monologue about his family's suffering. He admits he's wasting their money on alcohol, while Sonya[^c13] has been forced into prostitution to keep the family from starving. He speaks of his own guilt and shame but insists that God will forgive Sonya[^c13], calling her "holy through suffering."
-- Raskolnikov[^c1], despite his deteriorating state, feels moved by Marmeladov[^c6]'s misery. He helps him get home, where Katerina[^c12] lashes out at her drunken husband in front of their hungry children.
+- Raskolnikov[^c2raskolnikov], overwhelmed and spiraling, wanders around and eventually ends up in a tavern. In the tavern he observes the shared misery of the poor and working class.
+- A drunk man, Marmeladov[^c2marmeladov], strikes up a conversation with Raskolnikov[^c2raskolnikov]. He gives a long, emotional monologue about his family's turmoil.
+- Marmeladov[^c2marmeladov] is eager to confess his misery. He's a former government clerk who lost his job and blows all his family's money on alochol. His daughter, Sonya[^c2sonya], entered prostitution to keep the family financially afloat. Meanwhile, he's drowning in self-pity and pulling the rest of them under. He feels immeasurable guilt and shame, ultimately taking no action.
+  - He insists that God will forgive Sonya[^c2sonya], saying she's "holy through suffering".
+- Raskolnikov[^c2raskolnikov] is moved by Marmeladov[^c2marmeladov] and helps him return home. When they get there Marmeladov[^c2marmeladov]'s wife, Katarina[^c2katerina], berates him in front of their hungry children and Raskolnikov[^c2raskolnikov]. Raskolnikov[^c2raskolnikov] eventually leaves.
 
 ### Analysis
-- These events force Raskolnikov[^c1] to confront the raw, human suffering around him — suffering that his cold, logical theories can't easily explain away. The idea of justifying evil for a greater purpose grows stronger in his mind — he wonders if sacrificing one "louse", such as Alyona[^c5], could save countless "Sonya[^c13]-like" innocents.
+- Marmeladov[^c2marmeladov] is a symbol of the social and moral decay in Russian society. His drunken confession demonstrates the cycle of poverty, addiction, and suffering that traps the lower class. Marmeladov[^c2marmeladov]'s behavior and acceptance of his degredation highlight the hopelessness felt by the lower class, while his daughter Sonya[^c2sonya]'s sacrifice is an example of selfless suffering.
+- Raskolnikov[^c2raskolnikov] is exposed to the realities of destitution and moral compromises other people have to make while dealing with his own sense of powerlessness and desperation. This experience reinforces his perception of an unfair world where desperate actions are justified.
 
 
-## Part 3
-### Relevant Characters
-- Raskolnikov[^c1] <u title="The protagonist — a former student who is impoverished, prideful, and psychologically tormented."><i>(?)</i></u>
-- Pulcheria Alexandrovna Raskolnikova[^c3] <u title="Raskolnikov's mother."><i>(?)</i></u>
-- Dunya[^c2] <u title="Raskolnikov's sister."><i>(?)</i></u>
-- Luzhin[^c4] <u title="The lawyer who wants to marry Dunya"><i>(?)</i></u>
-- Svidrigailov[^c8] <u title="Landowner/nobleman living off inherited wealth."><i>(?)</i></u>
-- Marfa[^c9] <u title="Wife of Svidrigailov."><i>(?)</i></u>
-- Nastasya[^c7] <u title="Servant of the landlord who often checks on Raskolnikov."><i>(?)</i></u>
 
-### Relevant Terms
-- Governess[^g2] <u title="Private teacher."><i>(?)</i></u>
-- Extraordinary Man Theory[^g1] <u title="Raskolnikov believes that certain extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good."><i>(?)</i></u>
+## Part 1 Chapter 3
+
+### Characters
+- Raskolnikov
+- Pulcheria Raskolnikova
+- Dunya
+- Luzhin
+- Svidrigailov
+- Marfa
+
+### Terms
+- Governess
 
 ### Summary
-- Raskolnikov[^c1] receives a letter from his mother, Pulcheria Alexandrovna Raskolnikova[^c3], informing him of what has been going on in her and Dunya[^c2]'s life. The letter is filled with love and a heavy sense of guilt, sacrifice, and unspoken expectations. She explains Dunya[^c2]'s engagement to Luzhin[^c4], a wealthy lawyer who is older and unpleasant. Pulcheria Alexandrovna Raskolnikova[^c3] wants a wife that would feel indebted to him for lifting her and her family out of poverty. The letter paints him as controlling and condescending but his mother tries to spin it in a positive way.
-- The letter highlights the events leading up to this. Dunya[^c2] worked as a governess[^g2] for Svidrigailov[^c8], a wealthy landowner, who many people including his wife, Marfa[^c9], believed Dunya[^c2] was seducing and having an affair with. His wife publically humiliated Dunya[^c2] over it, which ultimately hurt her marriage prospects. It turned out that Svidrigailov[^c8] was actually harassing Dunya[^c2]. Marfa[^c9] did clear Dunya[^c2]'s name, but the damage was already done — Luzhin[^c4] became her only real option.
-- It suggests Dunya[^c2] is sacrificing her future for Raskolnikov[^c1]'s future and emphasizes that she is going through with the marriage to fund his education and give him more opportunities. Dunya[^c2] and her mother are being humiliated for Raskolnikov[^c1]'s sake, which puts an unbelievable amount of pressure on him to be successful. They're betting everything on him.
-- It ends with his mother sending him the little money they had left — reinforcing the self-sacrifice theme. The letter's tone is optomistic, hopeful for the future, but ultimately conveys desperation. It is emotionally manipulative — implying that Raskolnikov[^c1] owes his mother and sister for what they are doing for him, even if he would have never allowed it if he knew and had a say.
-- Raskolnikov[^c1] is very pissed. He cries and wanders around the streets.
+- Raskolnikov[^c3raskolnikov] receives a letter from his mother, Pulcheria Raskolnikova[^c3raskolnikova], informing him of what has been going on in her and his sister, Dunya[^c3dunya]'s, life. It's filled with love and a heavy sense of guilt, sacrifice, and unspoken expectations.
+- Dunya[^c3dunya] has been a governess[^ggoverness] for Svidrigailov[^c3svidrigailov], a wealthy landowner that was making persistant and unwanted advancements to her behind his wife Marfa[^c3marfa]'s back.
+- Marfa[^c3marfa] suspected Dunya[^c3dunya] of instigating with her Husband. She publically slandered and humiliated Dunya[^c3dunya] as a result, damaging her reputation and hurting her marriage prospects. 
+- Svidrigailov[^c3svidrigailov] eventually confessed to Marfa[^c3marfa] and Dunya[^c3dunya]'s name was cleared, however, the reputational damage was already done leaving her with few marriage prospects.
+- Dunya[^c3dunya] is ultimately set to marry an older, wealthy lawyer named Luzhin[^c3luzhin]. He's an unpleasant, condescending, and controlling person who desires a submissive, dependent wife.
+- The letter intentionally emphasizes the sacrifice Dunya[^c3dunya] is making for her familty, especially Raskolnikov[^c3raskolnikov]. Her intention is to obtain financial security for the family, fund his education, and build connections.
+- Raskolnikov[^c3raskolnikov] is angered about the humiliation his mother and sister endured. Their sacrifices are pressuring him to meet their unspoken expectations. To top it off, the letter came with the little money his mother had left.
 
 ### Analysis
-- This is the third major event that will sway Raskolnikov[^c1] towards actually engaging with his Extraordinary Man Theory[^g1].
-- MAJOR EVENT RECAP
-  - Raskolnikov[^c1] pawns his father's watch to a pawnbroker, Alyona[^c5], for a low amount. She's rude and condescending to him. She gives him far less money than the item is worth because she knows he's desperate. A personal injustice.
-  - Raskolnikov[^c1] goes to a tavern and encounters an alocholic, Marmeladov[^c6], who used to be a clerk and was fired. He explains that his family is impovereished and his daughter, Sonya[^c13], went into prostitution to keep things together. Meanwhile, he's spending all her money on alcohal. Another injustice, especially against the Sonya[^c13].
-  - Raskolnikov[^c1]'s sister, Dunya[^c2], is marrying a cruel older man, Luzhin[^c4], for Raskolnikov[^c1]'s sake. She and her mother are suffering for the hope something comes of Raskolnikov[^c1], however, Raskolnikov[^c1] quit his studies and does nothing (kind of like Marmeladov[^c6], the alcohlic ex-clerk).
-- THOUGHT: how will these events influence Raskolnikov[^c1]'s future actions?
-  - This is a great opportunity for introspection on Raskolnikov[^c1]'s part.
-    - He could compare the situation with his mother and sister to Marmeladov[^c6]'s with his wife and daughter, potentially avoiding going down the self-destructive path Marmeladov[^c6] took.
-    - On the other hand, he can drown in self-pity and blame the world.
-  - These events will push him more into his theory and he will likely do something very stupid.
+- Raskolnikov[^c3raskolnikov]'s family's struggles are introduced, shifting the focus from Raskolnikov[^c3raskolnikov]'s inner turmoil to his mother and sister. Dunya[^c3dunya]'s ordeal with Svidrigailov[^c3svidrigailov]'s predatory behavior and social scandal reveal how vulnerable they are. Dunya[^c3dunya] is making a huge sacrifice for the rest of her family.
+  - Dunya[^c3dunya] and Sonya (the daughter who entered prostitution to support her family) are two innocent Christ-like figures in the novel who sacrifice <b><i>a lot</i></b> for the people they love but might not deserve it.
+- Raskolnikov[^c3raskolnikov]'s sense of guilt and helplessness grows. He loves his family and resents their sacrifices, especially the idea of Dunya[^c3dunya] marrying an rude older man, Luzhin[^c3luzhin], just for financial stability. Raskolnikov[^c3raskolnikov]'s ideas of justice and morality push him closer to the radical ideas he's developing.
 
-TODO: finish part 4, add more hyperlinks to part 3
+
+
+## Part 1 Chapter 4
+
+### Characters
+- Raskolnikov
+- Dmitri Prokofyevich Razumikhin
+- Dunya
+- Sonya
+- Luzhin
+- Svidrigailov
+
+### Summary
+- Raskolnikov[^c4raskolnikov] is venting and angry that his family didn't ask for his advice.
+- He reflects on his sister, Dunya[^c4dunya], describing her as independent and strong — making her marriage to Luzhin[^c4luzhin] feel out of character.
+- He compares Dunya[^c4dunya]'s sacrifice to the hardships Sonya[^c4sonya] faces supporting her family financially via prostitution. He pities them and feels guilty.
+- Raskolnikov[^c4raskolnikov] notices a young drunk girl stumble her way to a bench. He also spots an older man, in his 30s, stalking her. Raskolnikov[^c4raskolnikov] yells at the man, sarcastically calling him "Svidrigailov[^c4svidrigailov]" (Dunya[^c4dunya]'s former employer), and charges toward him ready to fight.
+- A police officer stops Raskolnikov[^c4raskolnikov]. Raskolnikov[^c4raskolnikov] explains to him that a creep is following her. The police officer is cooperative and tries to help Raskolnikov[^c4raskolnikov] get the girl's address so they can put her in a taxi and send her home and keep her away from the man.
+- Raskolnikov[^c4raskolnikov] mocks the police officer out of nowhere, saying that he should leave them alone to "have a good time". The officer is kind of bewildered but continues on to help the girl as they part from Raskolnikov[^c4raskolnikov].
+- Raskolnikov[^c4raskolnikov] spirals into bitter thoughts about the situation. He wonders why he should even care? Why not let them destroy each other? He then pivots to feeling pity for her and imagines the suffering she's going through. His resentment toward Dunya[^c4dunya]'s situation is fueling his cynicism.
+- Raskolnikov[^c4raskolnikov] remembers the reason he went out in the first place — to visit his old university friend, Razumikhin, who he views as extremely intelligent and easygoing enough to get along with him, unlike most of the other people at the university. Raskolnikov[^c4raskolnikov] also notes him as large, strong, and cheerful despite being poor. Razumikhin is good at dealing with tough situations, according to Raskolnikov[^c4raskolnikov].
+
+TODO: clean up analysis - this is a good spot where we see his theory and reality butting heads.
+### Analysis
+- Raskolnikov[^c4raskolnikov]'s encounter with the drunk girl is a microcosm of the duality within him. He's torn between his extraordinary man theory[^gemt] and his instinctive compassion. 
+- He bounces between wanting to be a superior man above morality and feeling guilt and hopelessness like the rest of society would. 
+- His disgust towards Luzhin[^c4luzhin] and anger over Dunya[^c4dunya]'s future marriage is a personal example of the theme this encounter is hitting. He loves his mother and sister but that love is twisted by pride and resentment. He doesn't want them to suffer without his say.
+
+
+
+## Part 1 Chapter 5
+
+### Characters
+- Raskolnikov
+- Marmeladov
+- Sonya
+- Katarina
+
+### Summary
+- Raskolnikov[^c5raskolnikov] stumbles into a tavern and unexpectedly runs into Marmeladov[^c5marmeladov], the drunken man he previously met.
+- Marmeladov[^c5marmeladov] is in worse shape and begs Raskolnikov[^c5raskolnikov] to take him home. He's scared to face his wife, Katarina[^c5katarina].
+- They arrive at his apartment and Katarina[^c5katarina] screams and beats her husband in front of Raskolnikov[^c5raskolnikov] and their children.
+- She expresses extreme grief and shame over their daughter's prostitution. Raskolnikov[^c5raskolnikov] gives Katarina[^c5katarina] some money and leaves.
+- Raskolnikov[^c5raskolnikov] wanders around for a while and comes across a crowd gathered around someone who was ran over by a carriage. The victim is Marmeladov[^c5marmeladov]. Raskolnikov[^c5raskolnikov] helps carry him home and pays for a doctor and priest.
+- Marmeladov[^c5marmeladov] dies with Sonya[^c5sonya] weeping over him and Katarina[^c5katarina] loses her mind.
+- Raskolnikov[^c5raskolnikov] goes home and crashes. His mental state is deteriorating more.
+
+### Analysis
+- Raskolnikov[^c5raskolnikov] claims to be above morality but he instinctively helped Marmeladov[^c5marmeladov] and his family. His actions highlight his inner conflict.
+- This tragedy is an example of self-sacrifice and degradation. Marmeladov[^c5marmeladov]'s family suffers greatly and Raskolnikov[^c5raskolnikov] can't ignore it.
+- Sonya[^c5sonya] is a Christ-like figure who suffers for others. This is deeply unsettling for Raskolnikov[^c5raskolnikov].
+- Raskolnikov[^c5raskolnikov]'s decision to help them shows his subconscious rejection of his "extraordinary man" idea. If he was above morality, why would he care?
+
+
+
+## Part 1 Chapter 6
+
+### Characters
+- Raskolnikov
+- Razumikhin
+- Alyona
+- Lizaveta
+
+### Summary
+- Raskolnikov[^c6raskolnikov] wakes up and is torn by the weight of his thoughts.
+- He leaves to meet Razumikhin[^c6razumikhin] but ultimately bails.
+- He thinks about the murder he's been planning on Alyona[^c6alyona]. He's convinced that it is morally justified to kill a parasite who exploits people.
+- He recalls a conversation he heard in a tavern justifying killing her and redistributing her wealth. This reinforces his extraordinary man theory[^gemt].
+- He comes up with a plan to carry out the murder. He thinks Alyona[^c6alyona]'s sister, Lizaveta[^c6lizaveta], won't be around Alyona[^c6alyona] at a specific time which would give him an opening. He also finds a way to conceal an axe under his coat for convenience.
+- He eventually leaves his apartment and goes toward Alyona[^c6alyona] to conduct the murder.
+
+### Analysis
+- Raskolnikov[^c6raskolnikov] shifts from theorizing to taking action. The murder is no longer an intellectual debate.
+- His logic is based on utilitarianism. He convinces himself that he'll use her money for the greater good but really is just driven by his own suffering and pride. He wants to be extraordinary.
+- He hates Alyona[^c6alyona] to the point that she's not even human to him. This makes it easier for him to justify going through with it.
+
+
+
+TODO: analysis is repetitive and long
+## Part 1 Chapter 7
+
+### Characters
+- Raskolnikov
+- Alyona
+- Lizaveta
+- Nastasya
+
+### Summary
+- Raskolnikov[^c7raskolnikov] reaches Alyona[^c7alyona]'s apartment and knocks on her door. He uses a fake pledge to convince her to let him in.
+- Eventually, he strikes her with the axe he was concealing. She falls to the ground and he strikes her again.
+- After she's down, Raskolnikov[^c7raskolnikov] goes through her things and doesn't really know what he's doing at that point. He's having trouble logically processing what to do next. It's chaotic.
+- Raskolnikov[^c7raskolnikov] never shut the door to Alyona[^c7alyona]'s apartment after entering. Eventually, Lizaveta[^c7lizaveta], Alyona[^c7alyona]'s half-sister, comes in and sees the body. Raskolnikov[^c7raskolnikov]'s plan assumed that Lizaveta[^c7lizaveta] would not be there at the time he planned to kill Alyona[^c7alyona].
+- Raskolnkov impulsively kills Lizaveta[^c7lizaveta] with his axe out of fear then shuts the door. Eventually, he hears two men outside the apartment in the hallway. The men had business with Alyona[^c7alyona] and were knocking on the door and trying to get in, as they expected her to be home at that time and were confused why she wasn't answering.
+- At some point they move away briefly to find help, giving Raskolnikov[^c7raskolnikov] an opening to escape. He slips past them and runs down the stairs with his axe and stolen items. The men who were trying to get in noticed the door wasn't locked soon after and find the bodies. They realized that the murderer was in the apartment while they were trying to get in.
+- Raskolnikov[^c7raskolnikov] stumbles home and goes through all the stuff he stole and hides them in his apartment. He has blood stains on his clothes and is extremely exhausted. He lays down.
+- Nastasya[^c7nastasya], the landlady's servant, comes in to check on Raskolnikov[^c7raskolnikov]. She notices he's in bad shape and tries to talk to him but he's not very responsive and assumes he's sick. She doesn't notice anything otherwise.
+
+TODO: shorten and clarify 
+### Analysis
+- Raskolnikov[^c7raskolnikov] shifts from thinking about his plan to executing it. He initially thought that he'd be able to carry out what he rationalized to be a swift, noble act for the greater good, in a methedological, calculated manner. The act was more chaotic and sloppy than he anticipated. It really emphasizes how stuck in his head he is. It's similar to how someone that is really good at Call of Duty might think they could pick up a gun and level with Navy Seals, or someone who's never skateboarded before thinks they can do a kickflip after watching a few videos. Raskolnikov[^c7raskolnikov] is not as extraordinary as he thinks he is and has a rosey view of himself. Napolean didn't ride a big white stalion over the alps, it was actually a mule or a donkey.
+- Raskolnikov[^c7raskolnikov] shifts from obsessing over his extraordinary man theory[^gemt] and planning his murder to actually carrying it out, the idea being to fulfill a sexier part in his theory where he is an extraordinary figure that can break rules. He imagined that he'd be able to carry it out with precision and clarity — a swift, noble act for the greater good but when the time comes it's sloppy and chaotic, the opposite of how he envisioned. This shows how trapped in his head he was.
+  - THOUGHT: This is a similar dynamic to someone playing Call Of Duty all day thinking they can level with Navy Seals in combat (Gravy Seals), or someone who has never skateboarded before thinking they can land a kickflip after watching a few hours of kickflip tutorial videos. Theories, schemes, and ideas are not reality.
+  - Raskolnikov[^c7raskolnikov]'s self-image is a joke. He's not far off from some guy with manboobs flexing in front of a mirror long enough to stop noticing them. He's spent so much time fixating on society's problems that he's trained his mind to see a warped, oversimplified version of reality — one where he's the solution. He sees himself performing a bold, transformative act — like Napoleon crossing the Alps on a majestic white stallion to conquer Europe. The reality is closer to Napoleon riding a mule through the mud, ending with half a million of his men frozen to death in Russia and Napoleon himself exiled to a remote island.
+- <b>(GUILT: core theme)</b> Raskolnikov[^c7raskolnikov] justified his actions by reducing Alyona[^c7alyona] to an idea rather than a person. Murdering her was within the bounds of his ideological framework, but when Lizaveta[^c7lizaveta] entered the picture it flpped everything upside down. She's not a symbol, she's a person. Murdering her was reflexive and psychologically fractured him. Murdering Alyona[^c7alyona] was supposed to be a logical act, but Lizaveta[^c7lizaveta]'s death makes him feel extremely guilty.
+- The rest of the chapter details the physical and mental torment Raskolnikov[^c7raskolnikov] experiences.
+
+
+
+TODO: clean up grammar and spelling
+## Part 1 Full Analysis
+- Most of part 1 (chapters 1-6) sets the tone and moral climate of Raskolnikov's world. It's a gray, bleak depiction of 19th-century Russian society rife with poverty, humiliation, and transactional human relationships. Most of the characters introduced are enduring some form of suffering (see Marmeladov's story, Dunya's story, Alyona's story) that fuel Raskolnikov's ideology — the world is so morally bankrupt that someone has to take extraordinary action and rise above it. His extraordinary man theory[^gemt] begins to take shape. This theory is not just based on society's problems, it's also deeply emotional and reflects his ego, pride, and isolation (the author went out of his way several times to emphasize the antisocial nature of Raskolnikov's character such as purposely avoiding people, etc). Raskolnikov develops from a timid, nervous, soft-spoken ideologue into an angrier bitter person who has more (is manic the right word?) outbursts (see chapter 4 where he mocks the police officer).
+- At the end of part 1 (chapter 7), Raskolnikov's theorizing meets the ugly weight of reality. His detailed plan to murder Alyona, the pawnbroker, was not as clean and swift as he imagined. It was chaotic and sloppy and ended in tragedy with Alyona's sister, Lizaveta, being murdered too — which was outside the bounds of his moral framework. The rest of the chapter details the extreme guilt he feels. The physical and mental torment Raskolnikov experiences is just the beginning of his punishment.
+- Part 1 is the build up to, and including, the crime then ends at the early stages of guilt and punishment. TODO: guilt is expressed after reading the letter and from Marmeladov, so it doesn't just start happening here. Fix that later.
+
+TODO: links
+TODO: part 2 chapters from journal
+
+---
+
+# Part 2
+
+## Part 2 Chapter 1
+
+
+---
+
+[^c1raskolnikov]: Ch. 1 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c1praskovya]: Ch. 1 Praskovya Pavlovna (Praskovya): The landlady of Raskolnikov.
+[^c1alyona]: Ch. 1 Alyona Ivanova (Alyona): A miserly, cruel pawnbroker Raskolnikov sees as a "louse" exploiting the poor.
+
+[^c2raskolnikov]: Ch. 2 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who begins to craft an ideological framework based on his experience with the greedy pawnbroker, interactions in a tavern, and current emotional state.
+[^c2marmeladov]: Ch. 2 Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern who shares his sad life's story.
+[^c2sonya]: Ch. 2 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution in an effort to support her family and drunken father.
+[^c2katerina]: Ch. 2 Katarina Ivonova (Katerina): Marmeladov's proud sickly wife that berates him for wasting the little money they have. 
+[^c2alyona]: Ch. 2 Alyona Ivanova (Alyona): The pawnbroker who gave Raskolnikov a lowball offer for his watch knowing he was desperate for money.
+
+[^c3raskolnikov]: Ch. 3 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student, son of Raskolnikova and brother of Dunya, who received a letter from his mother detailing her and Dunya's circumstances.
+[^c3raskolnikova]: Ch. 3 Pulcheria Alexandrovna Raskolnikova (Raskolnikova in conversation, Pulcheria Alexandrovna formally): Raskolnikov's mother. Author of the letter sent to Raskolnikov.
+[^c3dunya]: Ch. 3 Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister, a governess for Svidrigailov, who is expected to marry an older man, a lawyer, who she doesn't really care for.
+[^c3luzhin]: Ch. 3 Pyotr Petrovich Luzhin (Luzhin): The lawyer who is expected to marry Dunya.
+[^c3svidrigailov]: Ch. 3 Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth who made persistent and inappropriate advances toward Dunya.
+[^c3marfa]: Ch. 3 Marfa Petrovna (Marfa): Wife of Svidrigailov who initially suspected Dunya of instigating with Svidrigailov.
+[^c3alyona]: Ch. 3 Alyona Ivanova (Alyona): The pawnbroker fueling Raskolnikov's anger.
+[^c3marmeladov]: Ch. 3 Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern.
+[^c3sonya]: Ch. 3 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
+
+TODO: change character defs to be more chapter-specific
+[^c4raskolnikov]: Ch. 4 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c4dunya]: Ch. 4 Avdotya Romanovna Raskolnikova (Dunya): Raskolnikov's sister.
+[^c4sonya]: Ch. 4 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
+[^c4luzhin]: Ch. 4 Pyotr Petrovich Luzhin (Luzhin): The lawyer who wants to marry Dunya.
+[^c4svidrigailov]: Ch. 4 Arkady Ivanovich Svidrigailov (Svidrigailov): Landowner/nobleman living off inherited wealth.
+
+[^c5raskolnikov]: Ch. 5 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c5marmeladov]: Ch. 5 Semyon Zakharovich Marmeladov (Marmeladov): The drunken ex-clerk Raskolnikov meets in a tavern, father of Sonya and husband of Katarina.
+[^c5sonya]: Ch. 5 Sonya Semyonovna (Sonya): Marmeladov's daughter who turned to prostitution.
+[^c5katarina]: Ch. 5 Katarina Ivonova (Katerina): Marmeladov's proud sickly wife.
+
+[^c6raskolnikov]: Ch. 6 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c6razumikhin]: Ch. 6 Dmitri Prokofyevich Razumikhin (Razumikhin): University friend of Raskolnikov.
+[^c6alyona]: Ch. 6 Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+[^c6lizaveta]: Ch. 6 Lizaveta Ivanovna (Lizaveta): Alyona Ivanova's meek, innocent, and kind sister.
+
+[^c7raskolnikov]: Ch. 7 Rodion Romanovich Raskolnikov (Raskolnikov): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
+[^c7alyona]: Ch. 7 Alyona Ivanova (Alyona): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
+[^c7lizaveta]: Ch. 7 Lizaveta Ivanovna (Lizaveta): Alyona Ivanova's meek, innocent, and kind sister.
+[^c7nastasya]: Ch. 7 Nastasya Petrovna (Nastasya): Servant of the landlord who often checks on Raskolnikov.
+
+
+TODO: add rest of chapters from other notes, make glossary characters chapter specific
+
+
+Terms
+[^gemt]: Extraordinary Man Theory: Extraordinary individuals (like Napoleon) are morally justified in breaking the law for the greater good.
+[^ggoverness]: Governess: Private teacher.
