@@ -5,6 +5,8 @@ Russian literature is extremely difficult to read and analyze — especially wit
 
 ---
 
+TODO: update character list
+
 ### Characters
 - <i>Rodion Romanovich Raskolnikov</i> (<b>Raskolnikov</b>): The protagonist — a former student who is impoverished, prideful, and psychologically tormented.
 - <i>Alyona Ivanova</i> (<b>Alyona</b>): Pawnbroker, cruel old woman Raskolnikov views as harmful to society.
@@ -29,24 +31,18 @@ Russian literature is extremely difficult to read and analyze — especially wit
 ### Characters
 - Raskolnikov
 - Alyona
-- Lizaveta
 - Praskovya
 
 ### Terms
 - Extraordinary Man Theory
 
 ### Summary
-- Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to accept help. He avoids people, including his friends and landlady, Praskovya[^c1praskovya], out of shame and arrogance. He spends his days lying in bed, wandering the streets, and talking to himself.
-- He's intelligent but mentally deteriorating. He toys with the idea an extraordinary man theory[^gemt], where extraordinary people (like conquerors or great thinkers) are above morality and have the right to commit crimes, even murder, if it benefits humanity.
-- He visits Alyona Ivanovna[^c1alyona], a pawnbroker, to sell his watch. The watch is a family heirloom that belonged to his father and holds great sentimental value. Raskolnikov[^c1raskolnikov] decided to part with it because he really needed money.
-- The pawnbroker, a greedy old woman, recognizes his desperation and gives an insultingly low offer because he has no real alternative. He accepts the offer — aware he's being exploited.
+- Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to ask for help. He avoids people, including his friends and landlady, Praskovya[^c1praskovya], out of shame and arrogance. He spends a lot of time lying in bed, wandering around, and devising plans for a <b><i>project</i></b> he's obsessed with.
+- His mental and financial circumstances lead him to visit a pawnbroker, Alyona[^c1alyona] — a selfish, greedy old woman he despises and views as parasitic. His intention is to sell his father's watch, a family heirloom of great sentimental value, in order to get enough money to stay afloat, but also, to help him <b><i>prepare</i></b> for his plan.
+- Alyona, knowing Raskolnikov's destitution, gives an insultingly low offer for the watch knowing he has no alternative. He accepts the offer fully aware of the exploitation.
 
 ### Analysis
-- Raskolnikov[^c1raskolnikov] is in debt, isolated, and barely able to interact with people. He is internally conflicted and fixated on his theory that it is okay to cross moral boundaries for a greater good. He rationalizes that it is acceptable for extraordinary people to operate outside the bounds of the law and societal norms.
-- The pawnbroker, Alyona[^c1alyona], is a symbol of greed that fuels Raskolnikov[^c1raskolnikov]'s ideas. Her exploitation of desperate people affirms his belief that she is harmful to society and shouldn't exist.
-  - From a transactional perspective, an item is only as valuable as someone is willing to pay and often involves other variables outside of what it ordinarilly may be. That dynamic isn't necessarily bad, but if desperation is the <i>key</i> variable a moral boundary is being violated. Just because you <i>can</i> do something doesn't mean you <i>should</i>. Capitalism is an economic system, not a moral one. One system cannot address every need.
-  - The underlying issue is that the moral bleakness of St. Petersburg undermines its institutions by fueling resentment, especially among the lower class. The lack of a complimentary moral system sets the stage for elites to punch down if they want. This friction between greed and desperation is perfectly demonstrated between Raskolnikov[^c1raskolnikov] and Alyona[^c1alyona]. If it grows there will be a catastrophic outcome. A society with no moral backbone is like a plane without wings — it won't fly.
-
+- Chapter 1 immediatly throws you into Raskolnikov's mind and subtly implies what he is planning to do. His big project is to murder Alyona, the pawnbroker he hates. The visit serves as a rehearsal.
 
 
 ## Part 1 Chapter 2
@@ -58,17 +54,18 @@ Russian literature is extremely difficult to read and analyze — especially wit
 - Katarina
 
 ### Summary
-- Raskolnikov[^c2raskolnikov], overwhelmed and spiraling, wanders around and eventually ends up in a tavern. In the tavern he observes the shared misery of the poor and working class.
-- A drunk man, Marmeladov[^c2marmeladov], strikes up a conversation with Raskolnikov[^c2raskolnikov]. He gives a long, emotional monologue about his family's turmoil.
-- Marmeladov[^c2marmeladov] is eager to confess his misery. He's a former government clerk who lost his job and blows all his family's money on alochol. His daughter, Sonya[^c2sonya], entered prostitution to keep the family financially afloat. Meanwhile, he's drowning in self-pity and pulling the rest of them under. He feels immeasurable guilt and shame, ultimately taking no action.
-  - He insists that God will forgive Sonya[^c2sonya], saying she's "holy through suffering".
-- Raskolnikov[^c2raskolnikov] is moved by Marmeladov[^c2marmeladov] and helps him return home. When they get there Marmeladov[^c2marmeladov]'s wife, Katarina[^c2katerina], berates him in front of their hungry children and Raskolnikov[^c2raskolnikov]. Raskolnikov[^c2raskolnikov] eventually leaves.
+- Raskolnikov[^c2raskolnikov] feverishly wanders the streets, overwhelmed by poverty and mental unrest.
+- He enters a tavern seeking relief or distraction. There, he meets Marmeladov[^c2marmeladov], a drunken ex-government clerk who pulls him into a conversation.
+- Marmeladov gives a long, emotional monologue about his family's turmoil. He lost his job and wastes all the money they have on alcohol. The little they have comes from his daughter, Sonya[^c2sonya], who was pushed into prostitution to support them. He paints himself as pitiful and spiritually aware. He claims god will forgive Sonya, describing her as holy through suffering.
+- Raskolnikov mostly just listens and later takes Marmeladov home. When they arrive Marmeladov's wife, Katarina[^c2katerina], berates him in front of their hungry children and Raskolnikov.
 
 ### Analysis
-- Marmeladov[^c2marmeladov] is a symbol of the social and moral decay in Russian society. His drunken confession demonstrates the cycle of poverty, addiction, and suffering that traps the lower class. Marmeladov[^c2marmeladov]'s behavior and acceptance of his degredation highlight the hopelessness felt by the lower class, while his daughter Sonya[^c2sonya]'s sacrifice is an example of selfless suffering.
-- Raskolnikov[^c2raskolnikov] is exposed to the realities of destitution and moral compromises other people have to make while dealing with his own sense of powerlessness and desperation. This experience reinforces his perception of an unfair world where desperate actions are justified.
+- Marmeladov is a symbol of the social and moral decay in Russian society. His drunken confession demonstrates the cycle of poverty, addiction, and contempt that traps the lower class.
+- Marmeladov is similar to Raskolnikov in that they are both intelligent men who have failed at life for different reasons — pride, ego, and social isolation versus passivity and addiction. Chapter 2 highlights a potential outcome Raskolnikov could land at.
+- Marmeladov believes that his daughter Sonya's suffering will lead to her salvation. He's drowning in guilt and isn't doing anything to change. His inaction and failure to seek redemption is <i>extremely</i> pathetic. On the other hand, Raskolnikov is on the brink of commiting a violent act to escape the same powerlessness Marmeladov feels.
 
 
+TODO: reduce links to first, reduce bullet points and be more clear
 
 ## Part 1 Chapter 3
 
