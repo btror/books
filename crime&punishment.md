@@ -33,9 +33,6 @@ TODO: update character list
 - Alyona
 - Praskovya
 
-### Terms
-- Extraordinary Man Theory
-
 ### Summary
 - Raskolnikov[^c1raskolnikov], a former student, lives in poverty in a tiny, filthy St. Petersburg apartment. He's too broke to continue studying and too proud to ask for help. He avoids people, including his friends and landlady, Praskovya[^c1praskovya], out of shame and arrogance. He spends a lot of time lying in bed, wandering around, and devising plans for a <b><i>project</i></b> he's obsessed with.
 - His mental and financial circumstances lead him to visit a pawnbroker, Alyona[^c1alyona] — a selfish, greedy old woman he despises and views as parasitic. His intention is to sell his father's watch, a family heirloom of great sentimental value, in order to get enough money to stay afloat, but also, to help him <b><i>prepare</i></b> for his plan.
